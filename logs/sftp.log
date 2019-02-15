@@ -1,0 +1,1162 @@
+Dec 17 02:08:41 10.71.52.11 u94371385 Connection from 10.71.52.11 port 39494 on 74.208.59.26 port 22
+Dec 17 02:08:42 10.71.52.11 u94371385 Accepted password for u94371385 from 10.71.52.11 port 39494 ssh2
+Dec 17 02:08:41 10.71.52.11 u94371385 Connection from 10.71.52.11 port 39496 on 74.208.59.26 port 22
+Dec 17 02:08:42 10.71.52.11 u94371385 Accepted password for u94371385 from 10.71.52.11 port 39496 ssh2
+Dec 17 02:08:43 10.71.52.11 u94371385 Starting session: subsystem 'sftp' for u94371385 from 10.71.52.11 port 39494
+Dec 17 02:08:43 10.71.52.11 u94371385 Starting session: subsystem 'sftp' for u94371385 from 10.71.52.11 port 39496
+Dec 17 02:08:43 10.71.52.11 u94371385 session opened for local user u94371385 from [10.71.52.11]
+Dec 17 02:08:43 10.71.52.11 u94371385 session opened for local user u94371385 from [10.71.52.11]
+Dec 17 02:08:45 10.71.52.11 u94371385 open "/about.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:08:45 10.71.52.11 u94371385 close "/about.php" bytes read 0 written 1173
+Dec 17 02:08:45 10.71.52.11 u94371385 [10.71.52.11|put|0|1173|0|0|0|2f61626f75742e706870|]
+Dec 17 02:08:45 10.71.52.11 u94371385 open "/allfriends.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:08:46 10.71.52.11 u94371385 open "/allposts.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:08:46 10.71.52.11 u94371385 close "/allfriends.php" bytes read 0 written 3249
+Dec 17 02:08:46 10.71.52.11 u94371385 [10.71.52.11|put|1|3249|0|0|0|2f616c6c667269656e64732e706870|]
+Dec 17 02:08:46 10.71.52.11 u94371385 close "/allposts.php" bytes read 0 written 1457
+Dec 17 02:08:46 10.71.52.11 u94371385 [10.71.52.11|put|0|1457|0|0|0|2f616c6c706f7374732e706870|]
+Dec 17 02:08:46 10.71.52.11 u94371385 open "/article.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:08:47 10.71.52.11 u94371385 open "/changepwd.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:08:47 10.71.52.11 u94371385 close "/article.php" bytes read 0 written 3281
+Dec 17 02:08:47 10.71.52.11 u94371385 [10.71.52.11|put|1|3281|0|0|0|2f61727469636c652e706870|]
+Dec 17 02:08:47 10.71.52.11 u94371385 close "/changepwd.php" bytes read 0 written 3405
+Dec 17 02:08:47 10.71.52.11 u94371385 [10.71.52.11|put|0|3405|0|0|0|2f6368616e67657077642e706870|]
+Dec 17 02:08:47 10.71.52.11 u94371385 open "/contact.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:08:48 10.71.52.11 u94371385 open "/createpost.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:08:48 10.71.52.11 u94371385 close "/contact.php" bytes read 0 written 1603
+Dec 17 02:08:48 10.71.52.11 u94371385 [10.71.52.11|put|1|1603|0|0|0|2f636f6e746163742e706870|]
+Dec 17 02:08:48 10.71.52.11 u94371385 close "/createpost.php" bytes read 0 written 952
+Dec 17 02:08:48 10.71.52.11 u94371385 [10.71.52.11|put|0|952|0|0|0|2f637265617465706f73742e706870|]
+Dec 17 02:08:48 10.71.52.11 u94371385 open "/deleteprofile.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:08:49 10.71.52.11 u94371385 open "/editmyprofile.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:08:49 10.71.52.11 u94371385 close "/deleteprofile.php" bytes read 0 written 736
+Dec 17 02:08:49 10.71.52.11 u94371385 [10.71.52.11|put|1|736|0|0|0|2f64656c65746570726f66696c652e706870|]
+Dec 17 02:08:49 10.71.52.11 u94371385 close "/editmyprofile.php" bytes read 0 written 2432
+Dec 17 02:08:49 10.71.52.11 u94371385 [10.71.52.11|put|0|2432|0|0|0|2f656469746d7970726f66696c652e706870|]
+Dec 17 02:08:50 10.71.52.11 u94371385 open "/footer.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:08:50 10.71.52.11 u94371385 open "/header.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:08:50 10.71.52.11 u94371385 close "/footer.php" bytes read 0 written 294
+Dec 17 02:08:50 10.71.52.11 u94371385 [10.71.52.11|put|0|294|0|0|0|2f666f6f7465722e706870|]
+Dec 17 02:08:50 10.71.52.11 u94371385 close "/header.php" bytes read 0 written 4711
+Dec 17 02:08:50 10.71.52.11 u94371385 [10.71.52.11|put|0|4711|0|0|0|2f6865616465722e706870|]
+Dec 17 02:08:51 10.71.52.11 u94371385 open "/index.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:08:51 10.71.52.11 u94371385 open "/myfriends.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:08:51 10.71.52.11 u94371385 close "/index.php" bytes read 0 written 4394
+Dec 17 02:08:51 10.71.52.11 u94371385 [10.71.52.11|put|0|4394|0|0|0|2f696e6465782e706870|]
+Dec 17 02:08:51 10.71.52.11 u94371385 close "/myfriends.php" bytes read 0 written 3272
+Dec 17 02:08:51 10.71.52.11 u94371385 [10.71.52.11|put|0|3272|0|0|0|2f6d79667269656e64732e706870|]
+Dec 17 02:08:52 10.71.52.11 u94371385 open "/myposts.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:08:52 10.71.52.11 u94371385 open "/myprofile.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:08:52 10.71.52.11 u94371385 close "/myposts.php" bytes read 0 written 1812
+Dec 17 02:08:52 10.71.52.11 u94371385 [10.71.52.11|put|0|1812|0|0|0|2f6d79706f7374732e706870|]
+Dec 17 02:08:52 10.71.52.11 u94371385 close "/myprofile.php" bytes read 0 written 6986
+Dec 17 02:08:52 10.71.52.11 u94371385 [10.71.52.11|put|0|6986|0|0|0|2f6d7970726f66696c652e706870|]
+Dec 17 02:08:53 10.71.52.11 u94371385 open "/pleaselogin.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:08:53 10.71.52.11 u94371385 open "/resetpwd.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:08:53 10.71.52.11 u94371385 close "/pleaselogin.php" bytes read 0 written 670
+Dec 17 02:08:53 10.71.52.11 u94371385 [10.71.52.11|put|0|670|0|0|0|2f706c656173656c6f67696e2e706870|]
+Dec 17 02:08:53 10.71.52.11 u94371385 close "/resetpwd.php" bytes read 0 written 1032
+Dec 17 02:08:53 10.71.52.11 u94371385 [10.71.52.11|put|0|1032|0|0|0|2f72657365747077642e706870|]
+Dec 17 02:08:54 10.71.52.11 u94371385 open "/search.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:08:54 10.71.52.11 u94371385 open "/searchusers.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:08:54 10.71.52.11 u94371385 close "/search.php" bytes read 0 written 1433
+Dec 17 02:08:54 10.71.52.11 u94371385 [10.71.52.11|put|0|1433|0|0|0|2f7365617263682e706870|]
+Dec 17 02:08:54 10.71.52.11 u94371385 close "/searchusers.php" bytes read 0 written 3325
+Dec 17 02:08:54 10.71.52.11 u94371385 [10.71.52.11|put|0|3325|0|0|0|2f73656172636875736572732e706870|]
+Dec 17 02:08:55 10.71.52.11 u94371385 open "/signup.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:08:55 10.71.52.11 u94371385 open "/userprofile.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:08:55 10.71.52.11 u94371385 close "/signup.php" bytes read 0 written 2248
+Dec 17 02:08:55 10.71.52.11 u94371385 [10.71.52.11|put|0|2248|0|0|0|2f7369676e75702e706870|]
+Dec 17 02:08:56 10.71.52.11 u94371385 close "/userprofile.php" bytes read 0 written 4456
+Dec 17 02:08:56 10.71.52.11 u94371385 [10.71.52.11|put|1|4456|0|0|0|2f7573657270726f66696c652e706870|]
+Dec 17 02:08:58 10.71.52.11 u94371385 open "/credentials/credentials.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:08:58 10.71.52.11 u94371385 open "/images/down.PNG" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:08:58 10.71.52.11 u94371385 close "/credentials/credentials.php" bytes read 0 written 222
+Dec 17 02:08:58 10.71.52.11 u94371385 [10.71.52.11|put|0|222|0|0|0|2f63726564656e7469616c732f63726564656e7469616c732e706870|]
+Dec 17 02:08:59 10.71.52.11 u94371385 close "/images/down.PNG" bytes read 0 written 58737
+Dec 17 02:08:59 10.71.52.11 u94371385 [10.71.52.11|put|1|58737|0|0|0|2f696d616765732f646f776e2e504e47|]
+Dec 17 02:08:59 10.71.52.11 u94371385 open "/images/logo.PNG" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:09:00 10.71.52.11 u94371385 open "/images/favicon.PNG" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:09:00 10.71.52.11 u94371385 close "/images/logo.PNG" bytes read 0 written 1485
+Dec 17 02:09:00 10.71.52.11 u94371385 [10.71.52.11|put|1|1485|0|0|0|2f696d616765732f6c6f676f2e504e47|]
+Dec 17 02:09:00 10.71.52.11 u94371385 close "/images/favicon.PNG" bytes read 0 written 1485
+Dec 17 02:09:00 10.71.52.11 u94371385 [10.71.52.11|put|0|1485|0|0|0|2f696d616765732f66617669636f6e2e504e47|]
+Dec 17 02:09:00 10.71.52.11 u94371385 open "/images/up.PNG" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:09:01 10.71.52.11 u94371385 close "/images/up.PNG" bytes read 0 written 122634
+Dec 17 02:09:01 10.71.52.11 u94371385 [10.71.52.11|put|1|122634|0|0|0|2f696d616765732f75702e504e47|]
+Dec 17 02:09:03 10.71.52.11 u94371385 open "/includes/addfriend.inc.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:09:03 10.71.52.11 u94371385 open "/includes/comments.inc.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:09:03 10.71.52.11 u94371385 close "/includes/addfriend.inc.php" bytes read 0 written 1653
+Dec 17 02:09:03 10.71.52.11 u94371385 [10.71.52.11|put|0|1653|0|0|0|2f696e636c756465732f616464667269656e642e696e632e706870|]
+Dec 17 02:09:03 10.71.52.11 u94371385 close "/includes/comments.inc.php" bytes read 0 written 1781
+Dec 17 02:09:03 10.71.52.11 u94371385 [10.71.52.11|put|0|1781|0|0|0|2f696e636c756465732f636f6d6d656e74732e696e632e706870|]
+Dec 17 02:09:04 10.71.52.11 u94371385 open "/includes/contact.inc.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:09:04 10.71.52.11 u94371385 open "/includes/createpost.inc.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:09:04 10.71.52.11 u94371385 close "/includes/contact.inc.php" bytes read 0 written 2560
+Dec 17 02:09:04 10.71.52.11 u94371385 [10.71.52.11|put|0|2560|0|0|0|2f696e636c756465732f636f6e746163742e696e632e706870|]
+Dec 17 02:09:04 10.71.52.11 u94371385 close "/includes/createpost.inc.php" bytes read 0 written 1649
+Dec 17 02:09:04 10.71.52.11 u94371385 [10.71.52.11|put|0|1649|0|0|0|2f696e636c756465732f637265617465706f73742e696e632e706870|]
+Dec 17 02:09:05 10.71.52.11 u94371385 open "/includes/dbh.inc.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:09:05 10.71.52.11 u94371385 open "/includes/editmyprofile.inc.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:09:05 10.71.52.11 u94371385 close "/includes/dbh.inc.php" bytes read 0 written 454
+Dec 17 02:09:05 10.71.52.11 u94371385 [10.71.52.11|put|0|454|0|0|0|2f696e636c756465732f6462682e696e632e706870|]
+Dec 17 02:09:05 10.71.52.11 u94371385 close "/includes/editmyprofile.inc.php" bytes read 0 written 1419
+Dec 17 02:09:05 10.71.52.11 u94371385 [10.71.52.11|put|0|1419|0|0|0|2f696e636c756465732f656469746d7970726f66696c652e696e632e706870|]
+Dec 17 02:09:06 10.71.52.11 u94371385 open "/includes/login.inc.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:09:06 10.71.52.11 u94371385 open "/includes/logout.inc.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:09:06 10.71.52.11 u94371385 close "/includes/login.inc.php" bytes read 0 written 1620
+Dec 17 02:09:06 10.71.52.11 u94371385 [10.71.52.11|put|0|1620|0|0|0|2f696e636c756465732f6c6f67696e2e696e632e706870|]
+Dec 17 02:09:06 10.71.52.11 u94371385 close "/includes/logout.inc.php" bytes read 0 written 247
+Dec 17 02:09:06 10.71.52.11 u94371385 [10.71.52.11|put|0|247|0|0|0|2f696e636c756465732f6c6f676f75742e696e632e706870|]
+Dec 17 02:09:07 10.71.52.11 u94371385 open "/includes/removefriend.inc.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:09:07 10.71.52.11 u94371385 open "/includes/resetpwd.inc.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:09:07 10.71.52.11 u94371385 close "/includes/removefriend.inc.php" bytes read 0 written 1691
+Dec 17 02:09:07 10.71.52.11 u94371385 [10.71.52.11|put|0|1691|0|0|0|2f696e636c756465732f72656d6f7665667269656e642e696e632e706870|]
+Dec 17 02:09:07 10.71.52.11 u94371385 close "/includes/resetpwd.inc.php" bytes read 0 written 2915
+Dec 17 02:09:07 10.71.52.11 u94371385 [10.71.52.11|put|0|2915|0|0|0|2f696e636c756465732f72657365747077642e696e632e706870|]
+Dec 17 02:09:08 10.71.52.11 u94371385 open "/includes/resetpwdrequest.inc.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:09:08 10.71.52.11 u94371385 open "/includes/signup.inc.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:09:08 10.71.52.11 u94371385 close "/includes/resetpwdrequest.inc.php" bytes read 0 written 1638
+Dec 17 02:09:08 10.71.52.11 u94371385 [10.71.52.11|put|0|1638|0|0|0|2f696e636c756465732f7265736574707764726571756573742e696e632e706870|]
+Dec 17 02:09:08 10.71.52.11 u94371385 close "/includes/signup.inc.php" bytes read 0 written 6797
+Dec 17 02:09:08 10.71.52.11 u94371385 [10.71.52.11|put|0|6797|0|0|0|2f696e636c756465732f7369676e75702e696e632e706870|]
+Dec 17 02:09:09 10.71.52.11 u94371385 open "/includes/updatepwd.inc.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:09:09 10.71.52.11 u94371385 close "/includes/updatepwd.inc.php" bytes read 0 written 1775
+Dec 17 02:09:09 10.71.52.11 u94371385 [10.71.52.11|put|0|1775|0|0|0|2f696e636c756465732f7570646174657077642e696e632e706870|]
+Dec 17 02:09:11 10.71.52.11 u94371385 open "/styles/styles.css" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:09:12 10.71.52.11 u94371385 close "/styles/styles.css" bytes read 0 written 14010
+Dec 17 02:09:12 10.71.52.11 u94371385 [10.71.52.11|put|1|14010|0|0|0|2f7374796c65732f7374796c65732e637373|]
+Dec 17 02:09:12 10.71.52.11 u94371385 open "/uploads/profileasdasdasd.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:09:13 10.71.52.11 u94371385 open "/uploads/profiledefault.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:09:13 10.71.52.11 u94371385 close "/uploads/profiledefault.jpg" bytes read 0 written 3809
+Dec 17 02:09:13 10.71.52.11 u94371385 [10.71.52.11|put|0|3809|0|0|0|2f75706c6f6164732f70726f66696c6564656661756c742e6a7067|]
+Dec 17 02:09:14 10.71.52.11 u94371385 close "/uploads/profileasdasdasd.jpg" bytes read 0 written 1248222
+Dec 17 02:09:14 10.71.52.11 u94371385 [10.71.52.11|put|2|1248222|0|0|0|2f75706c6f6164732f70726f66696c656173646173646173642e6a7067|]
+Dec 17 02:09:14 10.71.52.11 u94371385 open "/uploads/profiledefaultf.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:09:14 10.71.52.11 u94371385 open "/uploads/profileqweqwe.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:09:14 10.71.52.11 u94371385 close "/uploads/profiledefaultf.jpg" bytes read 0 written 2636
+Dec 17 02:09:14 10.71.52.11 u94371385 [10.71.52.11|put|0|2636|0|0|0|2f75706c6f6164732f70726f66696c6564656661756c74662e6a7067|]
+Dec 17 02:09:15 10.71.52.11 u94371385 close "/uploads/profileqweqwe.jpg" bytes read 0 written 1248222
+Dec 17 02:09:15 10.71.52.11 u94371385 [10.71.52.11|put|1|1248222|0|0|0|2f75706c6f6164732f70726f66696c657177657177652e6a7067|]
+Dec 17 02:09:15 10.71.52.11 u94371385 open "/uploads/profilezxc.jpeg" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:09:16 10.71.52.11 u94371385 close "/uploads/profilezxc.jpeg" bytes read 0 written 882853
+Dec 17 02:09:16 10.71.52.11 u94371385 [10.71.52.11|put|1|882853|0|0|0|2f75706c6f6164732f70726f66696c657a78632e6a706567|]
+Dec 17 02:10:15 10.71.52.11 u94371385 session closed for local user u94371385 from [10.71.52.11]
+Dec 17 02:10:15 10.71.52.11 u94371385 Connection closed by 10.71.52.11
+Dec 17 02:10:16 10.71.52.11 u94371385 session closed for local user u94371385 from [10.71.52.11]
+Dec 17 02:10:17 10.71.52.11 u94371385 Connection closed by 10.71.52.11
+Dec 17 02:17:11 10.71.52.11 u94371385 Connection from 10.71.52.11 port 35552 on 74.208.59.26 port 22
+Dec 17 02:17:12 10.71.52.11 u94371385 Accepted password for u94371385 from 10.71.52.11 port 35552 ssh2
+Dec 17 02:17:11 10.71.52.11 u94371385 Connection from 10.71.52.11 port 35554 on 74.208.59.26 port 22
+Dec 17 02:17:12 10.71.52.11 u94371385 Accepted password for u94371385 from 10.71.52.11 port 35554 ssh2
+Dec 17 02:17:13 10.71.52.11 u94371385 Starting session: subsystem 'sftp' for u94371385 from 10.71.52.11 port 35552
+Dec 17 02:17:13 10.71.52.11 u94371385 session opened for local user u94371385 from [10.71.52.11]
+Dec 17 02:17:13 10.71.52.11 u94371385 Starting session: subsystem 'sftp' for u94371385 from 10.71.52.11 port 35554
+Dec 17 02:17:13 10.71.52.11 u94371385 session opened for local user u94371385 from [10.71.52.11]
+Dec 17 02:17:14 10.71.52.11 u94371385 open "/allfriends.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:17:15 10.71.52.11 u94371385 close "/allfriends.php" bytes read 0 written 3249
+Dec 17 02:17:15 10.71.52.11 u94371385 [10.71.52.11|put|1|3249|0|0|0|2f616c6c667269656e64732e706870|]
+Dec 17 02:17:15 10.71.52.11 u94371385 open "/about.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:17:16 10.71.52.11 u94371385 open "/allposts.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:17:16 10.71.52.11 u94371385 close "/about.php" bytes read 0 written 1173
+Dec 17 02:17:16 10.71.52.11 u94371385 [10.71.52.11|put|1|1173|0|0|0|2f61626f75742e706870|]
+Dec 17 02:17:16 10.71.52.11 u94371385 close "/allposts.php" bytes read 0 written 1457
+Dec 17 02:17:16 10.71.52.11 u94371385 [10.71.52.11|put|0|1457|0|0|0|2f616c6c706f7374732e706870|]
+Dec 17 02:17:16 10.71.52.11 u94371385 open "/article.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:17:17 10.71.52.11 u94371385 open "/changepwd.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:17:17 10.71.52.11 u94371385 close "/article.php" bytes read 0 written 3281
+Dec 17 02:17:17 10.71.52.11 u94371385 [10.71.52.11|put|1|3281|0|0|0|2f61727469636c652e706870|]
+Dec 17 02:17:17 10.71.52.11 u94371385 close "/changepwd.php" bytes read 0 written 3405
+Dec 17 02:17:17 10.71.52.11 u94371385 [10.71.52.11|put|0|3405|0|0|0|2f6368616e67657077642e706870|]
+Dec 17 02:17:17 10.71.52.11 u94371385 open "/contact.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:17:18 10.71.52.11 u94371385 open "/createpost.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:17:18 10.71.52.11 u94371385 close "/contact.php" bytes read 0 written 1603
+Dec 17 02:17:18 10.71.52.11 u94371385 [10.71.52.11|put|1|1603|0|0|0|2f636f6e746163742e706870|]
+Dec 17 02:17:18 10.71.52.11 u94371385 close "/createpost.php" bytes read 0 written 952
+Dec 17 02:17:18 10.71.52.11 u94371385 [10.71.52.11|put|0|952|0|0|0|2f637265617465706f73742e706870|]
+Dec 17 02:17:18 10.71.52.11 u94371385 open "/deleteprofile.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:17:19 10.71.52.11 u94371385 open "/editmyprofile.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:17:19 10.71.52.11 u94371385 close "/deleteprofile.php" bytes read 0 written 736
+Dec 17 02:17:19 10.71.52.11 u94371385 [10.71.52.11|put|1|736|0|0|0|2f64656c65746570726f66696c652e706870|]
+Dec 17 02:17:19 10.71.52.11 u94371385 close "/editmyprofile.php" bytes read 0 written 2432
+Dec 17 02:17:19 10.71.52.11 u94371385 [10.71.52.11|put|0|2432|0|0|0|2f656469746d7970726f66696c652e706870|]
+Dec 17 02:17:19 10.71.52.11 u94371385 open "/footer.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:17:20 10.71.52.11 u94371385 open "/header.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:17:20 10.71.52.11 u94371385 close "/footer.php" bytes read 0 written 294
+Dec 17 02:17:20 10.71.52.11 u94371385 [10.71.52.11|put|1|294|0|0|0|2f666f6f7465722e706870|]
+Dec 17 02:17:20 10.71.52.11 u94371385 close "/header.php" bytes read 0 written 4711
+Dec 17 02:17:20 10.71.52.11 u94371385 [10.71.52.11|put|0|4711|0|0|0|2f6865616465722e706870|]
+Dec 17 02:17:21 10.71.52.11 u94371385 open "/index.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:17:21 10.71.52.11 u94371385 open "/myfriends.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:17:21 10.71.52.11 u94371385 close "/index.php" bytes read 0 written 4394
+Dec 17 02:17:21 10.71.52.11 u94371385 [10.71.52.11|put|0|4394|0|0|0|2f696e6465782e706870|]
+Dec 17 02:17:21 10.71.52.11 u94371385 close "/myfriends.php" bytes read 0 written 3272
+Dec 17 02:17:21 10.71.52.11 u94371385 [10.71.52.11|put|0|3272|0|0|0|2f6d79667269656e64732e706870|]
+Dec 17 02:17:22 10.71.52.11 u94371385 open "/myposts.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:17:22 10.71.52.11 u94371385 open "/myprofile.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:17:22 10.71.52.11 u94371385 close "/myposts.php" bytes read 0 written 1812
+Dec 17 02:17:22 10.71.52.11 u94371385 [10.71.52.11|put|0|1812|0|0|0|2f6d79706f7374732e706870|]
+Dec 17 02:17:22 10.71.52.11 u94371385 close "/myprofile.php" bytes read 0 written 6986
+Dec 17 02:17:22 10.71.52.11 u94371385 [10.71.52.11|put|0|6986|0|0|0|2f6d7970726f66696c652e706870|]
+Dec 17 02:17:23 10.71.52.11 u94371385 open "/pleaselogin.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:17:23 10.71.52.11 u94371385 open "/resetpwd.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:17:23 10.71.52.11 u94371385 close "/pleaselogin.php" bytes read 0 written 670
+Dec 17 02:17:23 10.71.52.11 u94371385 [10.71.52.11|put|0|670|0|0|0|2f706c656173656c6f67696e2e706870|]
+Dec 17 02:17:23 10.71.52.11 u94371385 close "/resetpwd.php" bytes read 0 written 1032
+Dec 17 02:17:23 10.71.52.11 u94371385 [10.71.52.11|put|0|1032|0|0|0|2f72657365747077642e706870|]
+Dec 17 02:17:24 10.71.52.11 u94371385 open "/search.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:17:24 10.71.52.11 u94371385 open "/searchusers.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:17:24 10.71.52.11 u94371385 close "/search.php" bytes read 0 written 1433
+Dec 17 02:17:24 10.71.52.11 u94371385 [10.71.52.11|put|0|1433|0|0|0|2f7365617263682e706870|]
+Dec 17 02:17:24 10.71.52.11 u94371385 close "/searchusers.php" bytes read 0 written 3325
+Dec 17 02:17:24 10.71.52.11 u94371385 [10.71.52.11|put|0|3325|0|0|0|2f73656172636875736572732e706870|]
+Dec 17 02:17:25 10.71.52.11 u94371385 open "/signup.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:17:25 10.71.52.11 u94371385 open "/userprofile.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:17:25 10.71.52.11 u94371385 close "/signup.php" bytes read 0 written 2248
+Dec 17 02:17:25 10.71.52.11 u94371385 [10.71.52.11|put|0|2248|0|0|0|2f7369676e75702e706870|]
+Dec 17 02:17:25 10.71.52.11 u94371385 close "/userprofile.php" bytes read 0 written 4456
+Dec 17 02:17:25 10.71.52.11 u94371385 [10.71.52.11|put|0|4456|0|0|0|2f7573657270726f66696c652e706870|]
+Dec 17 02:17:28 10.71.52.11 u94371385 open "/credentials/credentials.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:17:28 10.71.52.11 u94371385 open "/images/down.PNG" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:17:28 10.71.52.11 u94371385 close "/credentials/credentials.php" bytes read 0 written 222
+Dec 17 02:17:28 10.71.52.11 u94371385 [10.71.52.11|put|0|222|0|0|0|2f63726564656e7469616c732f63726564656e7469616c732e706870|]
+Dec 17 02:17:29 10.71.52.11 u94371385 close "/images/down.PNG" bytes read 0 written 58737
+Dec 17 02:17:29 10.71.52.11 u94371385 [10.71.52.11|put|1|58737|0|0|0|2f696d616765732f646f776e2e504e47|]
+Dec 17 02:17:29 10.71.52.11 u94371385 open "/images/logo.PNG" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:17:30 10.71.52.11 u94371385 open "/images/favicon.PNG" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:17:30 10.71.52.11 u94371385 close "/images/logo.PNG" bytes read 0 written 1485
+Dec 17 02:17:30 10.71.52.11 u94371385 [10.71.52.11|put|1|1485|0|0|0|2f696d616765732f6c6f676f2e504e47|]
+Dec 17 02:17:30 10.71.52.11 u94371385 close "/images/favicon.PNG" bytes read 0 written 1485
+Dec 17 02:17:30 10.71.52.11 u94371385 [10.71.52.11|put|0|1485|0|0|0|2f696d616765732f66617669636f6e2e504e47|]
+Dec 17 02:17:30 10.71.52.11 u94371385 open "/images/up.PNG" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:17:31 10.71.52.11 u94371385 close "/images/up.PNG" bytes read 0 written 122634
+Dec 17 02:17:31 10.71.52.11 u94371385 [10.71.52.11|put|1|122634|0|0|0|2f696d616765732f75702e504e47|]
+Dec 17 02:17:33 10.71.52.11 u94371385 open "/includes/comments.inc.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:17:33 10.71.52.11 u94371385 open "/includes/addfriend.inc.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:17:33 10.71.52.11 u94371385 close "/includes/comments.inc.php" bytes read 0 written 1781
+Dec 17 02:17:33 10.71.52.11 u94371385 [10.71.52.11|put|0|1781|0|0|0|2f696e636c756465732f636f6d6d656e74732e696e632e706870|]
+Dec 17 02:17:33 10.71.52.11 u94371385 close "/includes/addfriend.inc.php" bytes read 0 written 1653
+Dec 17 02:17:33 10.71.52.11 u94371385 [10.71.52.11|put|0|1653|0|0|0|2f696e636c756465732f616464667269656e642e696e632e706870|]
+Dec 17 02:17:34 10.71.52.11 u94371385 open "/includes/contact.inc.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:17:34 10.71.52.11 u94371385 open "/includes/createpost.inc.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:17:34 10.71.52.11 u94371385 close "/includes/contact.inc.php" bytes read 0 written 2828
+Dec 17 02:17:34 10.71.52.11 u94371385 [10.71.52.11|put|0|2828|0|0|0|2f696e636c756465732f636f6e746163742e696e632e706870|]
+Dec 17 02:17:34 10.71.52.11 u94371385 close "/includes/createpost.inc.php" bytes read 0 written 1649
+Dec 17 02:17:34 10.71.52.11 u94371385 [10.71.52.11|put|0|1649|0|0|0|2f696e636c756465732f637265617465706f73742e696e632e706870|]
+Dec 17 02:17:35 10.71.52.11 u94371385 open "/includes/dbh.inc.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:17:35 10.71.52.11 u94371385 open "/includes/editmyprofile.inc.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:17:35 10.71.52.11 u94371385 close "/includes/dbh.inc.php" bytes read 0 written 454
+Dec 17 02:17:35 10.71.52.11 u94371385 [10.71.52.11|put|0|454|0|0|0|2f696e636c756465732f6462682e696e632e706870|]
+Dec 17 02:17:35 10.71.52.11 u94371385 close "/includes/editmyprofile.inc.php" bytes read 0 written 1419
+Dec 17 02:17:35 10.71.52.11 u94371385 [10.71.52.11|put|0|1419|0|0|0|2f696e636c756465732f656469746d7970726f66696c652e696e632e706870|]
+Dec 17 02:17:36 10.71.52.11 u94371385 open "/includes/login.inc.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:17:36 10.71.52.11 u94371385 open "/includes/logout.inc.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:17:36 10.71.52.11 u94371385 close "/includes/login.inc.php" bytes read 0 written 1620
+Dec 17 02:17:36 10.71.52.11 u94371385 [10.71.52.11|put|0|1620|0|0|0|2f696e636c756465732f6c6f67696e2e696e632e706870|]
+Dec 17 02:17:36 10.71.52.11 u94371385 close "/includes/logout.inc.php" bytes read 0 written 247
+Dec 17 02:17:36 10.71.52.11 u94371385 [10.71.52.11|put|0|247|0|0|0|2f696e636c756465732f6c6f676f75742e696e632e706870|]
+Dec 17 02:17:37 10.71.52.11 u94371385 open "/includes/removefriend.inc.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:17:37 10.71.52.11 u94371385 open "/includes/resetpwd.inc.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:17:37 10.71.52.11 u94371385 close "/includes/removefriend.inc.php" bytes read 0 written 1691
+Dec 17 02:17:37 10.71.52.11 u94371385 [10.71.52.11|put|0|1691|0|0|0|2f696e636c756465732f72656d6f7665667269656e642e696e632e706870|]
+Dec 17 02:17:37 10.71.52.11 u94371385 close "/includes/resetpwd.inc.php" bytes read 0 written 2915
+Dec 17 02:17:37 10.71.52.11 u94371385 [10.71.52.11|put|0|2915|0|0|0|2f696e636c756465732f72657365747077642e696e632e706870|]
+Dec 17 02:17:38 10.71.52.11 u94371385 open "/includes/resetpwdrequest.inc.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:17:38 10.71.52.11 u94371385 open "/includes/signup.inc.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:17:38 10.71.52.11 u94371385 close "/includes/resetpwdrequest.inc.php" bytes read 0 written 1638
+Dec 17 02:17:38 10.71.52.11 u94371385 [10.71.52.11|put|0|1638|0|0|0|2f696e636c756465732f7265736574707764726571756573742e696e632e706870|]
+Dec 17 02:17:38 10.71.52.11 u94371385 close "/includes/signup.inc.php" bytes read 0 written 6797
+Dec 17 02:17:38 10.71.52.11 u94371385 [10.71.52.11|put|0|6797|0|0|0|2f696e636c756465732f7369676e75702e696e632e706870|]
+Dec 17 02:17:39 10.71.52.11 u94371385 open "/includes/updatepwd.inc.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:17:39 10.71.52.11 u94371385 close "/includes/updatepwd.inc.php" bytes read 0 written 1775
+Dec 17 02:17:39 10.71.52.11 u94371385 [10.71.52.11|put|0|1775|0|0|0|2f696e636c756465732f7570646174657077642e696e632e706870|]
+Dec 17 02:17:41 10.71.52.11 u94371385 open "/styles/styles.css" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:17:42 10.71.52.11 u94371385 close "/styles/styles.css" bytes read 0 written 14010
+Dec 17 02:17:42 10.71.52.11 u94371385 [10.71.52.11|put|1|14010|0|0|0|2f7374796c65732f7374796c65732e637373|]
+Dec 17 02:17:42 10.71.52.11 u94371385 open "/uploads/profileasdasdasd.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:17:43 10.71.52.11 u94371385 open "/uploads/profiledefault.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:17:43 10.71.52.11 u94371385 close "/uploads/profileasdasdasd.jpg" bytes read 0 written 1248222
+Dec 17 02:17:43 10.71.52.11 u94371385 [10.71.52.11|put|1|1248222|0|0|0|2f75706c6f6164732f70726f66696c656173646173646173642e6a7067|]
+Dec 17 02:17:43 10.71.52.11 u94371385 close "/uploads/profiledefault.jpg" bytes read 0 written 3809
+Dec 17 02:17:43 10.71.52.11 u94371385 [10.71.52.11|put|0|3809|0|0|0|2f75706c6f6164732f70726f66696c6564656661756c742e6a7067|]
+Dec 17 02:17:44 10.71.52.11 u94371385 open "/uploads/profiledefaultf.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:17:44 10.71.52.11 u94371385 open "/uploads/profileqweqwe.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:17:44 10.71.52.11 u94371385 close "/uploads/profiledefaultf.jpg" bytes read 0 written 2636
+Dec 17 02:17:44 10.71.52.11 u94371385 [10.71.52.11|put|0|2636|0|0|0|2f75706c6f6164732f70726f66696c6564656661756c74662e6a7067|]
+Dec 17 02:17:45 10.71.52.11 u94371385 open "/uploads/profilezxc.jpeg" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:17:45 10.71.52.11 u94371385 close "/uploads/profilezxc.jpeg" bytes read 0 written 882853
+Dec 17 02:17:45 10.71.52.11 u94371385 [10.71.52.11|put|0|882853|0|0|0|2f75706c6f6164732f70726f66696c657a78632e6a706567|]
+Dec 17 02:17:45 10.71.52.11 u94371385 close "/uploads/profileqweqwe.jpg" bytes read 0 written 1248222
+Dec 17 02:17:45 10.71.52.11 u94371385 [10.71.52.11|put|1|1248222|0|0|0|2f75706c6f6164732f70726f66696c657177657177652e6a7067|]
+Dec 17 02:18:46 10.71.52.11 u94371385 session closed for local user u94371385 from [10.71.52.11]
+Dec 17 02:18:46 10.71.52.11 u94371385 Connection closed by 10.71.52.11
+Dec 17 02:18:46 10.71.52.11 u94371385 session closed for local user u94371385 from [10.71.52.11]
+Dec 17 02:18:46 10.71.52.11 u94371385 Connection closed by 10.71.52.11
+Dec 17 02:20:45 10.71.52.11 u94371385 Connection from 10.71.52.11 port 18918 on 74.208.59.26 port 22
+Dec 17 02:20:46 10.71.52.11 u94371385 Accepted password for u94371385 from 10.71.52.11 port 18918 ssh2
+Dec 17 02:20:45 10.71.52.11 u94371385 Connection from 10.71.52.11 port 18924 on 74.208.59.26 port 22
+Dec 17 02:20:46 10.71.52.11 u94371385 Accepted password for u94371385 from 10.71.52.11 port 18924 ssh2
+Dec 17 02:20:47 10.71.52.11 u94371385 Starting session: subsystem 'sftp' for u94371385 from 10.71.52.11 port 18918
+Dec 17 02:20:47 10.71.52.11 u94371385 Starting session: subsystem 'sftp' for u94371385 from 10.71.52.11 port 18924
+Dec 17 02:20:47 10.71.52.11 u94371385 session opened for local user u94371385 from [10.71.52.11]
+Dec 17 02:20:47 10.71.52.11 u94371385 session opened for local user u94371385 from [10.71.52.11]
+Dec 17 02:20:50 10.71.52.11 u94371385 open "/includes/comments.inc.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:20:50 10.71.52.11 u94371385 open "/includes/addfriend.inc.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:20:50 10.71.52.11 u94371385 close "/includes/comments.inc.php" bytes read 0 written 1781
+Dec 17 02:20:50 10.71.52.11 u94371385 [10.71.52.11|put|0|1781|0|0|0|2f696e636c756465732f636f6d6d656e74732e696e632e706870|]
+Dec 17 02:20:50 10.71.52.11 u94371385 close "/includes/addfriend.inc.php" bytes read 0 written 1653
+Dec 17 02:20:50 10.71.52.11 u94371385 [10.71.52.11|put|0|1653|0|0|0|2f696e636c756465732f616464667269656e642e696e632e706870|]
+Dec 17 02:20:51 10.71.52.11 u94371385 open "/includes/contact.inc.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:20:51 10.71.52.11 u94371385 open "/includes/createpost.inc.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:20:51 10.71.52.11 u94371385 close "/includes/contact.inc.php" bytes read 0 written 2888
+Dec 17 02:20:51 10.71.52.11 u94371385 [10.71.52.11|put|0|2888|0|0|0|2f696e636c756465732f636f6e746163742e696e632e706870|]
+Dec 17 02:20:51 10.71.52.11 u94371385 close "/includes/createpost.inc.php" bytes read 0 written 1649
+Dec 17 02:20:51 10.71.52.11 u94371385 [10.71.52.11|put|0|1649|0|0|0|2f696e636c756465732f637265617465706f73742e696e632e706870|]
+Dec 17 02:20:52 10.71.52.11 u94371385 open "/includes/dbh.inc.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:20:52 10.71.52.11 u94371385 open "/includes/editmyprofile.inc.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:20:52 10.71.52.11 u94371385 close "/includes/dbh.inc.php" bytes read 0 written 454
+Dec 17 02:20:52 10.71.52.11 u94371385 [10.71.52.11|put|0|454|0|0|0|2f696e636c756465732f6462682e696e632e706870|]
+Dec 17 02:20:52 10.71.52.11 u94371385 close "/includes/editmyprofile.inc.php" bytes read 0 written 1419
+Dec 17 02:20:52 10.71.52.11 u94371385 [10.71.52.11|put|0|1419|0|0|0|2f696e636c756465732f656469746d7970726f66696c652e696e632e706870|]
+Dec 17 02:20:53 10.71.52.11 u94371385 open "/includes/login.inc.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:20:53 10.71.52.11 u94371385 open "/includes/logout.inc.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:20:53 10.71.52.11 u94371385 close "/includes/login.inc.php" bytes read 0 written 1620
+Dec 17 02:20:53 10.71.52.11 u94371385 [10.71.52.11|put|0|1620|0|0|0|2f696e636c756465732f6c6f67696e2e696e632e706870|]
+Dec 17 02:20:53 10.71.52.11 u94371385 close "/includes/logout.inc.php" bytes read 0 written 247
+Dec 17 02:20:53 10.71.52.11 u94371385 [10.71.52.11|put|0|247|0|0|0|2f696e636c756465732f6c6f676f75742e696e632e706870|]
+Dec 17 02:20:54 10.71.52.11 u94371385 open "/includes/removefriend.inc.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:20:54 10.71.52.11 u94371385 open "/includes/resetpwd.inc.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:20:54 10.71.52.11 u94371385 close "/includes/removefriend.inc.php" bytes read 0 written 1691
+Dec 17 02:20:54 10.71.52.11 u94371385 [10.71.52.11|put|0|1691|0|0|0|2f696e636c756465732f72656d6f7665667269656e642e696e632e706870|]
+Dec 17 02:20:54 10.71.52.11 u94371385 close "/includes/resetpwd.inc.php" bytes read 0 written 2915
+Dec 17 02:20:54 10.71.52.11 u94371385 [10.71.52.11|put|0|2915|0|0|0|2f696e636c756465732f72657365747077642e696e632e706870|]
+Dec 17 02:20:55 10.71.52.11 u94371385 open "/includes/resetpwdrequest.inc.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:20:55 10.71.52.11 u94371385 open "/includes/signup.inc.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:20:55 10.71.52.11 u94371385 close "/includes/resetpwdrequest.inc.php" bytes read 0 written 1638
+Dec 17 02:20:55 10.71.52.11 u94371385 [10.71.52.11|put|0|1638|0|0|0|2f696e636c756465732f7265736574707764726571756573742e696e632e706870|]
+Dec 17 02:20:55 10.71.52.11 u94371385 close "/includes/signup.inc.php" bytes read 0 written 6797
+Dec 17 02:20:55 10.71.52.11 u94371385 [10.71.52.11|put|0|6797|0|0|0|2f696e636c756465732f7369676e75702e696e632e706870|]
+Dec 17 02:20:56 10.71.52.11 u94371385 open "/includes/updatepwd.inc.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:20:56 10.71.52.11 u94371385 close "/includes/updatepwd.inc.php" bytes read 0 written 1775
+Dec 17 02:20:56 10.71.52.11 u94371385 [10.71.52.11|put|0|1775|0|0|0|2f696e636c756465732f7570646174657077642e696e632e706870|]
+Dec 17 02:20:57 10.71.52.11 u94371385 open "/contact.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 02:20:57 10.71.52.11 u94371385 close "/contact.php" bytes read 0 written 1603
+Dec 17 02:20:57 10.71.52.11 u94371385 [10.71.52.11|put|0|1603|0|0|0|2f636f6e746163742e706870|]
+Dec 17 02:21:57 10.71.52.11 u94371385 session closed for local user u94371385 from [10.71.52.11]
+Dec 17 02:21:57 10.71.52.11 u94371385 Connection closed by 10.71.52.11
+Dec 17 02:21:57 10.71.52.11 u94371385 session closed for local user u94371385 from [10.71.52.11]
+Dec 17 02:21:58 10.71.52.11 u94371385 Connection closed by 10.71.52.11
+Dec 17 04:08:16 10.71.52.11 u94371385 Connection from 10.71.52.11 port 38142 on 74.208.59.26 port 22
+Dec 17 04:08:18 10.71.52.11 u94371385 Accepted password for u94371385 from 10.71.52.11 port 38142 ssh2
+Dec 17 04:08:16 10.71.52.11 u94371385 Connection from 10.71.52.11 port 38138 on 74.208.59.26 port 22
+Dec 17 04:08:18 10.71.52.11 u94371385 Accepted password for u94371385 from 10.71.52.11 port 38138 ssh2
+Dec 17 04:08:19 10.71.52.11 u94371385 Starting session: subsystem 'sftp' for u94371385 from 10.71.52.11 port 38142
+Dec 17 04:08:19 10.71.52.11 u94371385 session opened for local user u94371385 from [10.71.52.11]
+Dec 17 04:08:19 10.71.52.11 u94371385 Starting session: subsystem 'sftp' for u94371385 from 10.71.52.11 port 38138
+Dec 17 04:08:19 10.71.52.11 u94371385 session opened for local user u94371385 from [10.71.52.11]
+Dec 17 04:08:21 10.71.52.11 u94371385 open "/about.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:08:21 10.71.52.11 u94371385 close "/about.php" bytes read 0 written 1173
+Dec 17 04:08:21 10.71.52.11 u94371385 [10.71.52.11|put|0|1173|0|0|0|2f61626f75742e706870|]
+Dec 17 04:08:21 10.71.52.11 u94371385 open "/allfriends.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:08:22 10.71.52.11 u94371385 open "/allposts.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:08:22 10.71.52.11 u94371385 close "/allfriends.php" bytes read 0 written 3249
+Dec 17 04:08:22 10.71.52.11 u94371385 [10.71.52.11|put|1|3249|0|0|0|2f616c6c667269656e64732e706870|]
+Dec 17 04:08:22 10.71.52.11 u94371385 close "/allposts.php" bytes read 0 written 1457
+Dec 17 04:08:22 10.71.52.11 u94371385 [10.71.52.11|put|0|1457|0|0|0|2f616c6c706f7374732e706870|]
+Dec 17 04:08:22 10.71.52.11 u94371385 open "/article.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:08:23 10.71.52.11 u94371385 open "/changepwd.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:08:23 10.71.52.11 u94371385 close "/article.php" bytes read 0 written 3281
+Dec 17 04:08:23 10.71.52.11 u94371385 [10.71.52.11|put|1|3281|0|0|0|2f61727469636c652e706870|]
+Dec 17 04:08:23 10.71.52.11 u94371385 close "/changepwd.php" bytes read 0 written 3405
+Dec 17 04:08:23 10.71.52.11 u94371385 [10.71.52.11|put|0|3405|0|0|0|2f6368616e67657077642e706870|]
+Dec 17 04:08:23 10.71.52.11 u94371385 open "/contact.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:08:24 10.71.52.11 u94371385 open "/createpost.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:08:24 10.71.52.11 u94371385 close "/contact.php" bytes read 0 written 2015
+Dec 17 04:08:24 10.71.52.11 u94371385 [10.71.52.11|put|1|2015|0|0|0|2f636f6e746163742e706870|]
+Dec 17 04:08:24 10.71.52.11 u94371385 close "/createpost.php" bytes read 0 written 952
+Dec 17 04:08:24 10.71.52.11 u94371385 [10.71.52.11|put|0|952|0|0|0|2f637265617465706f73742e706870|]
+Dec 17 04:08:24 10.71.52.11 u94371385 open "/deleteprofile.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:08:25 10.71.52.11 u94371385 open "/editmyprofile.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:08:25 10.71.52.11 u94371385 close "/deleteprofile.php" bytes read 0 written 736
+Dec 17 04:08:25 10.71.52.11 u94371385 [10.71.52.11|put|1|736|0|0|0|2f64656c65746570726f66696c652e706870|]
+Dec 17 04:08:25 10.71.52.11 u94371385 close "/editmyprofile.php" bytes read 0 written 2432
+Dec 17 04:08:25 10.71.52.11 u94371385 [10.71.52.11|put|0|2432|0|0|0|2f656469746d7970726f66696c652e706870|]
+Dec 17 04:08:26 10.71.52.11 u94371385 open "/footer.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:08:26 10.71.52.11 u94371385 open "/header.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:08:26 10.71.52.11 u94371385 close "/footer.php" bytes read 0 written 294
+Dec 17 04:08:26 10.71.52.11 u94371385 [10.71.52.11|put|0|294|0|0|0|2f666f6f7465722e706870|]
+Dec 17 04:08:26 10.71.52.11 u94371385 close "/header.php" bytes read 0 written 4711
+Dec 17 04:08:26 10.71.52.11 u94371385 [10.71.52.11|put|0|4711|0|0|0|2f6865616465722e706870|]
+Dec 17 04:08:27 10.71.52.11 u94371385 open "/index.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:08:27 10.71.52.11 u94371385 open "/myfriends.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:08:27 10.71.52.11 u94371385 close "/index.php" bytes read 0 written 4394
+Dec 17 04:08:27 10.71.52.11 u94371385 [10.71.52.11|put|0|4394|0|0|0|2f696e6465782e706870|]
+Dec 17 04:08:27 10.71.52.11 u94371385 close "/myfriends.php" bytes read 0 written 3272
+Dec 17 04:08:27 10.71.52.11 u94371385 [10.71.52.11|put|0|3272|0|0|0|2f6d79667269656e64732e706870|]
+Dec 17 04:08:28 10.71.52.11 u94371385 open "/myposts.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:08:28 10.71.52.11 u94371385 open "/myprofile.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:08:28 10.71.52.11 u94371385 close "/myposts.php" bytes read 0 written 1812
+Dec 17 04:08:28 10.71.52.11 u94371385 [10.71.52.11|put|0|1812|0|0|0|2f6d79706f7374732e706870|]
+Dec 17 04:08:28 10.71.52.11 u94371385 close "/myprofile.php" bytes read 0 written 6986
+Dec 17 04:08:28 10.71.52.11 u94371385 [10.71.52.11|put|0|6986|0|0|0|2f6d7970726f66696c652e706870|]
+Dec 17 04:08:29 10.71.52.11 u94371385 open "/pleaselogin.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:08:29 10.71.52.11 u94371385 open "/resetpwd.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:08:29 10.71.52.11 u94371385 close "/pleaselogin.php" bytes read 0 written 670
+Dec 17 04:08:29 10.71.52.11 u94371385 [10.71.52.11|put|0|670|0|0|0|2f706c656173656c6f67696e2e706870|]
+Dec 17 04:08:29 10.71.52.11 u94371385 close "/resetpwd.php" bytes read 0 written 1032
+Dec 17 04:08:29 10.71.52.11 u94371385 [10.71.52.11|put|0|1032|0|0|0|2f72657365747077642e706870|]
+Dec 17 04:08:30 10.71.52.11 u94371385 open "/search.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:08:30 10.71.52.11 u94371385 open "/searchusers.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:08:30 10.71.52.11 u94371385 close "/search.php" bytes read 0 written 1433
+Dec 17 04:08:30 10.71.52.11 u94371385 [10.71.52.11|put|0|1433|0|0|0|2f7365617263682e706870|]
+Dec 17 04:08:30 10.71.52.11 u94371385 close "/searchusers.php" bytes read 0 written 3325
+Dec 17 04:08:30 10.71.52.11 u94371385 [10.71.52.11|put|0|3325|0|0|0|2f73656172636875736572732e706870|]
+Dec 17 04:08:31 10.71.52.11 u94371385 open "/signup.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:08:31 10.71.52.11 u94371385 open "/userprofile.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:08:31 10.71.52.11 u94371385 close "/signup.php" bytes read 0 written 2248
+Dec 17 04:08:31 10.71.52.11 u94371385 [10.71.52.11|put|0|2248|0|0|0|2f7369676e75702e706870|]
+Dec 17 04:08:32 10.71.52.11 u94371385 close "/userprofile.php" bytes read 0 written 4456
+Dec 17 04:08:32 10.71.52.11 u94371385 [10.71.52.11|put|1|4456|0|0|0|2f7573657270726f66696c652e706870|]
+Dec 17 04:08:34 10.71.52.11 u94371385 open "/credentials/credentials.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:08:34 10.71.52.11 u94371385 open "/images/down.PNG" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:08:34 10.71.52.11 u94371385 close "/credentials/credentials.php" bytes read 0 written 222
+Dec 17 04:08:34 10.71.52.11 u94371385 [10.71.52.11|put|0|222|0|0|0|2f63726564656e7469616c732f63726564656e7469616c732e706870|]
+Dec 17 04:08:35 10.71.52.11 u94371385 close "/images/down.PNG" bytes read 0 written 58737
+Dec 17 04:08:35 10.71.52.11 u94371385 [10.71.52.11|put|1|58737|0|0|0|2f696d616765732f646f776e2e504e47|]
+Dec 17 04:08:35 10.71.52.11 u94371385 open "/images/logo.PNG" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:08:36 10.71.52.11 u94371385 open "/images/favicon.PNG" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:08:36 10.71.52.11 u94371385 close "/images/logo.PNG" bytes read 0 written 1485
+Dec 17 04:08:36 10.71.52.11 u94371385 [10.71.52.11|put|1|1485|0|0|0|2f696d616765732f6c6f676f2e504e47|]
+Dec 17 04:08:36 10.71.52.11 u94371385 close "/images/favicon.PNG" bytes read 0 written 1485
+Dec 17 04:08:36 10.71.52.11 u94371385 [10.71.52.11|put|0|1485|0|0|0|2f696d616765732f66617669636f6e2e504e47|]
+Dec 17 04:08:36 10.71.52.11 u94371385 open "/images/up.PNG" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:08:37 10.71.52.11 u94371385 close "/images/up.PNG" bytes read 0 written 122634
+Dec 17 04:08:37 10.71.52.11 u94371385 [10.71.52.11|put|1|122634|0|0|0|2f696d616765732f75702e504e47|]
+Dec 17 04:08:39 10.71.52.11 u94371385 open "/includes/addfriend.inc.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:08:39 10.71.52.11 u94371385 open "/includes/comments.inc.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:08:39 10.71.52.11 u94371385 close "/includes/comments.inc.php" bytes read 0 written 1781
+Dec 17 04:08:39 10.71.52.11 u94371385 [10.71.52.11|put|0|1781|0|0|0|2f696e636c756465732f636f6d6d656e74732e696e632e706870|]
+Dec 17 04:08:39 10.71.52.11 u94371385 close "/includes/addfriend.inc.php" bytes read 0 written 1653
+Dec 17 04:08:39 10.71.52.11 u94371385 [10.71.52.11|put|0|1653|0|0|0|2f696e636c756465732f616464667269656e642e696e632e706870|]
+Dec 17 04:08:40 10.71.52.11 u94371385 open "/includes/contact.inc.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:08:40 10.71.52.11 u94371385 open "/includes/createpost.inc.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:08:40 10.71.52.11 u94371385 close "/includes/contact.inc.php" bytes read 0 written 2943
+Dec 17 04:08:40 10.71.52.11 u94371385 [10.71.52.11|put|0|2943|0|0|0|2f696e636c756465732f636f6e746163742e696e632e706870|]
+Dec 17 04:08:40 10.71.52.11 u94371385 close "/includes/createpost.inc.php" bytes read 0 written 1649
+Dec 17 04:08:40 10.71.52.11 u94371385 [10.71.52.11|put|0|1649|0|0|0|2f696e636c756465732f637265617465706f73742e696e632e706870|]
+Dec 17 04:08:41 10.71.52.11 u94371385 open "/includes/dbh.inc.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:08:41 10.71.52.11 u94371385 open "/includes/editmyprofile.inc.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:08:41 10.71.52.11 u94371385 close "/includes/dbh.inc.php" bytes read 0 written 454
+Dec 17 04:08:41 10.71.52.11 u94371385 [10.71.52.11|put|0|454|0|0|0|2f696e636c756465732f6462682e696e632e706870|]
+Dec 17 04:08:41 10.71.52.11 u94371385 close "/includes/editmyprofile.inc.php" bytes read 0 written 1419
+Dec 17 04:08:41 10.71.52.11 u94371385 [10.71.52.11|put|0|1419|0|0|0|2f696e636c756465732f656469746d7970726f66696c652e696e632e706870|]
+Dec 17 04:08:42 10.71.52.11 u94371385 open "/includes/login.inc.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:08:42 10.71.52.11 u94371385 open "/includes/logout.inc.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:08:42 10.71.52.11 u94371385 close "/includes/login.inc.php" bytes read 0 written 1620
+Dec 17 04:08:42 10.71.52.11 u94371385 [10.71.52.11|put|0|1620|0|0|0|2f696e636c756465732f6c6f67696e2e696e632e706870|]
+Dec 17 04:08:42 10.71.52.11 u94371385 close "/includes/logout.inc.php" bytes read 0 written 247
+Dec 17 04:08:42 10.71.52.11 u94371385 [10.71.52.11|put|0|247|0|0|0|2f696e636c756465732f6c6f676f75742e696e632e706870|]
+Dec 17 04:08:43 10.71.52.11 u94371385 open "/includes/removefriend.inc.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:08:43 10.71.52.11 u94371385 open "/includes/resetpwd.inc.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:08:43 10.71.52.11 u94371385 close "/includes/removefriend.inc.php" bytes read 0 written 1691
+Dec 17 04:08:43 10.71.52.11 u94371385 [10.71.52.11|put|0|1691|0|0|0|2f696e636c756465732f72656d6f7665667269656e642e696e632e706870|]
+Dec 17 04:08:43 10.71.52.11 u94371385 close "/includes/resetpwd.inc.php" bytes read 0 written 2915
+Dec 17 04:08:43 10.71.52.11 u94371385 [10.71.52.11|put|0|2915|0|0|0|2f696e636c756465732f72657365747077642e696e632e706870|]
+Dec 17 04:08:44 10.71.52.11 u94371385 open "/includes/resetpwdrequest.inc.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:08:44 10.71.52.11 u94371385 open "/includes/signup.inc.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:08:44 10.71.52.11 u94371385 close "/includes/resetpwdrequest.inc.php" bytes read 0 written 1638
+Dec 17 04:08:44 10.71.52.11 u94371385 [10.71.52.11|put|0|1638|0|0|0|2f696e636c756465732f7265736574707764726571756573742e696e632e706870|]
+Dec 17 04:08:44 10.71.52.11 u94371385 close "/includes/signup.inc.php" bytes read 0 written 6797
+Dec 17 04:08:44 10.71.52.11 u94371385 [10.71.52.11|put|0|6797|0|0|0|2f696e636c756465732f7369676e75702e696e632e706870|]
+Dec 17 04:08:45 10.71.52.11 u94371385 open "/includes/updatepwd.inc.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:08:46 10.71.52.11 u94371385 close "/includes/updatepwd.inc.php" bytes read 0 written 1775
+Dec 17 04:08:46 10.71.52.11 u94371385 [10.71.52.11|put|1|1775|0|0|0|2f696e636c756465732f7570646174657077642e696e632e706870|]
+Dec 17 04:08:47 10.71.52.11 u94371385 open "/styles/styles.css" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:08:48 10.71.52.11 u94371385 close "/styles/styles.css" bytes read 0 written 14010
+Dec 17 04:08:48 10.71.52.11 u94371385 [10.71.52.11|put|1|14010|0|0|0|2f7374796c65732f7374796c65732e637373|]
+Dec 17 04:08:48 10.71.52.11 u94371385 open "/uploads/profileasdasdasd.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:08:49 10.71.52.11 u94371385 open "/uploads/profiledefault.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:08:49 10.71.52.11 u94371385 close "/uploads/profileasdasdasd.jpg" bytes read 0 written 1248222
+Dec 17 04:08:49 10.71.52.11 u94371385 [10.71.52.11|put|1|1248222|0|0|0|2f75706c6f6164732f70726f66696c656173646173646173642e6a7067|]
+Dec 17 04:08:49 10.71.52.11 u94371385 close "/uploads/profiledefault.jpg" bytes read 0 written 3809
+Dec 17 04:08:49 10.71.52.11 u94371385 [10.71.52.11|put|0|3809|0|0|0|2f75706c6f6164732f70726f66696c6564656661756c742e6a7067|]
+Dec 17 04:08:50 10.71.52.11 u94371385 open "/uploads/profiledefaultf.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:08:50 10.71.52.11 u94371385 open "/uploads/profileqweqwe.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:08:50 10.71.52.11 u94371385 close "/uploads/profiledefaultf.jpg" bytes read 0 written 2636
+Dec 17 04:08:50 10.71.52.11 u94371385 [10.71.52.11|put|0|2636|0|0|0|2f75706c6f6164732f70726f66696c6564656661756c74662e6a7067|]
+Dec 17 04:08:51 10.71.52.11 u94371385 open "/uploads/profilezxc.jpeg" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:08:51 10.71.52.11 u94371385 close "/uploads/profilezxc.jpeg" bytes read 0 written 882853
+Dec 17 04:08:51 10.71.52.11 u94371385 [10.71.52.11|put|0|882853|0|0|0|2f75706c6f6164732f70726f66696c657a78632e6a706567|]
+Dec 17 04:08:52 10.71.52.11 u94371385 close "/uploads/profileqweqwe.jpg" bytes read 0 written 1248222
+Dec 17 04:08:52 10.71.52.11 u94371385 [10.71.52.11|put|2|1248222|0|0|0|2f75706c6f6164732f70726f66696c657177657177652e6a7067|]
+Dec 17 04:09:52 10.71.52.11 u94371385 session closed for local user u94371385 from [10.71.52.11]
+Dec 17 04:09:52 10.71.52.11 u94371385 Connection closed by 10.71.52.11
+Dec 17 04:09:52 10.71.52.11 u94371385 session closed for local user u94371385 from [10.71.52.11]
+Dec 17 04:09:52 10.71.52.11 u94371385 Connection closed by 10.71.52.11
+Dec 17 04:11:17 10.71.52.11 u94371385 Connection from 10.71.52.11 port 56970 on 74.208.59.26 port 22
+Dec 17 04:11:18 10.71.52.11 u94371385 Accepted password for u94371385 from 10.71.52.11 port 56970 ssh2
+Dec 17 04:11:17 10.71.52.11 u94371385 Connection from 10.71.52.11 port 56972 on 74.208.59.26 port 22
+Dec 17 04:11:18 10.71.52.11 u94371385 Accepted password for u94371385 from 10.71.52.11 port 56972 ssh2
+Dec 17 04:11:19 10.71.52.11 u94371385 Starting session: subsystem 'sftp' for u94371385 from 10.71.52.11 port 56970
+Dec 17 04:11:19 10.71.52.11 u94371385 Starting session: subsystem 'sftp' for u94371385 from 10.71.52.11 port 56972
+Dec 17 04:11:19 10.71.52.11 u94371385 session opened for local user u94371385 from [10.71.52.11]
+Dec 17 04:11:19 10.71.52.11 u94371385 session opened for local user u94371385 from [10.71.52.11]
+Dec 17 04:11:20 10.71.52.11 u94371385 open "/about.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:11:21 10.71.52.11 u94371385 close "/about.php" bytes read 0 written 1173
+Dec 17 04:11:21 10.71.52.11 u94371385 [10.71.52.11|put|1|1173|0|0|0|2f61626f75742e706870|]
+Dec 17 04:11:21 10.71.52.11 u94371385 open "/allfriends.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:11:21 10.71.52.11 u94371385 open "/allposts.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:11:22 10.71.52.11 u94371385 close "/allfriends.php" bytes read 0 written 3249
+Dec 17 04:11:22 10.71.52.11 u94371385 [10.71.52.11|put|1|3249|0|0|0|2f616c6c667269656e64732e706870|]
+Dec 17 04:11:22 10.71.52.11 u94371385 close "/allposts.php" bytes read 0 written 1457
+Dec 17 04:11:22 10.71.52.11 u94371385 [10.71.52.11|put|1|1457|0|0|0|2f616c6c706f7374732e706870|]
+Dec 17 04:11:22 10.71.52.11 u94371385 open "/article.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:11:22 10.71.52.11 u94371385 open "/changepwd.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:11:23 10.71.52.11 u94371385 close "/article.php" bytes read 0 written 3281
+Dec 17 04:11:23 10.71.52.11 u94371385 [10.71.52.11|put|1|3281|0|0|0|2f61727469636c652e706870|]
+Dec 17 04:11:23 10.71.52.11 u94371385 close "/changepwd.php" bytes read 0 written 3405
+Dec 17 04:11:23 10.71.52.11 u94371385 [10.71.52.11|put|1|3405|0|0|0|2f6368616e67657077642e706870|]
+Dec 17 04:11:23 10.71.52.11 u94371385 open "/contact.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:11:23 10.71.52.11 u94371385 open "/createpost.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:11:24 10.71.52.11 u94371385 close "/contact.php" bytes read 0 written 2037
+Dec 17 04:11:24 10.71.52.11 u94371385 [10.71.52.11|put|1|2037|0|0|0|2f636f6e746163742e706870|]
+Dec 17 04:11:24 10.71.52.11 u94371385 close "/createpost.php" bytes read 0 written 952
+Dec 17 04:11:24 10.71.52.11 u94371385 [10.71.52.11|put|1|952|0|0|0|2f637265617465706f73742e706870|]
+Dec 17 04:11:24 10.71.52.11 u94371385 open "/deleteprofile.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:11:24 10.71.52.11 u94371385 open "/editmyprofile.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:11:25 10.71.52.11 u94371385 close "/deleteprofile.php" bytes read 0 written 736
+Dec 17 04:11:25 10.71.52.11 u94371385 [10.71.52.11|put|1|736|0|0|0|2f64656c65746570726f66696c652e706870|]
+Dec 17 04:11:25 10.71.52.11 u94371385 close "/editmyprofile.php" bytes read 0 written 2432
+Dec 17 04:11:25 10.71.52.11 u94371385 [10.71.52.11|put|1|2432|0|0|0|2f656469746d7970726f66696c652e706870|]
+Dec 17 04:11:25 10.71.52.11 u94371385 open "/footer.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:11:26 10.71.52.11 u94371385 open "/header.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:11:26 10.71.52.11 u94371385 close "/footer.php" bytes read 0 written 294
+Dec 17 04:11:26 10.71.52.11 u94371385 [10.71.52.11|put|1|294|0|0|0|2f666f6f7465722e706870|]
+Dec 17 04:11:26 10.71.52.11 u94371385 close "/header.php" bytes read 0 written 4711
+Dec 17 04:11:26 10.71.52.11 u94371385 [10.71.52.11|put|0|4711|0|0|0|2f6865616465722e706870|]
+Dec 17 04:11:26 10.71.52.11 u94371385 open "/index.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:11:27 10.71.52.11 u94371385 open "/myfriends.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:11:27 10.71.52.11 u94371385 close "/index.php" bytes read 0 written 4394
+Dec 17 04:11:27 10.71.52.11 u94371385 [10.71.52.11|put|1|4394|0|0|0|2f696e6465782e706870|]
+Dec 17 04:11:27 10.71.52.11 u94371385 close "/myfriends.php" bytes read 0 written 3272
+Dec 17 04:11:27 10.71.52.11 u94371385 [10.71.52.11|put|0|3272|0|0|0|2f6d79667269656e64732e706870|]
+Dec 17 04:11:27 10.71.52.11 u94371385 open "/myposts.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:11:28 10.71.52.11 u94371385 open "/myprofile.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:11:28 10.71.52.11 u94371385 close "/myposts.php" bytes read 0 written 1812
+Dec 17 04:11:28 10.71.52.11 u94371385 [10.71.52.11|put|1|1812|0|0|0|2f6d79706f7374732e706870|]
+Dec 17 04:11:28 10.71.52.11 u94371385 close "/myprofile.php" bytes read 0 written 6986
+Dec 17 04:11:28 10.71.52.11 u94371385 [10.71.52.11|put|0|6986|0|0|0|2f6d7970726f66696c652e706870|]
+Dec 17 04:11:28 10.71.52.11 u94371385 open "/pleaselogin.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:11:29 10.71.52.11 u94371385 open "/resetpwd.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:11:29 10.71.52.11 u94371385 close "/pleaselogin.php" bytes read 0 written 670
+Dec 17 04:11:29 10.71.52.11 u94371385 [10.71.52.11|put|1|670|0|0|0|2f706c656173656c6f67696e2e706870|]
+Dec 17 04:11:29 10.71.52.11 u94371385 close "/resetpwd.php" bytes read 0 written 1032
+Dec 17 04:11:29 10.71.52.11 u94371385 [10.71.52.11|put|0|1032|0|0|0|2f72657365747077642e706870|]
+Dec 17 04:11:29 10.71.52.11 u94371385 open "/search.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:11:30 10.71.52.11 u94371385 open "/searchusers.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:11:30 10.71.52.11 u94371385 close "/search.php" bytes read 0 written 1433
+Dec 17 04:11:30 10.71.52.11 u94371385 [10.71.52.11|put|1|1433|0|0|0|2f7365617263682e706870|]
+Dec 17 04:11:30 10.71.52.11 u94371385 close "/searchusers.php" bytes read 0 written 3325
+Dec 17 04:11:30 10.71.52.11 u94371385 [10.71.52.11|put|0|3325|0|0|0|2f73656172636875736572732e706870|]
+Dec 17 04:11:30 10.71.52.11 u94371385 open "/signup.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:11:31 10.71.52.11 u94371385 open "/userprofile.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:11:31 10.71.52.11 u94371385 close "/signup.php" bytes read 0 written 2248
+Dec 17 04:11:31 10.71.52.11 u94371385 [10.71.52.11|put|1|2248|0|0|0|2f7369676e75702e706870|]
+Dec 17 04:11:31 10.71.52.11 u94371385 close "/userprofile.php" bytes read 0 written 4456
+Dec 17 04:11:31 10.71.52.11 u94371385 [10.71.52.11|put|0|4456|0|0|0|2f7573657270726f66696c652e706870|]
+Dec 17 04:11:34 10.71.52.11 u94371385 open "/credentials/credentials.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:11:34 10.71.52.11 u94371385 open "/images/down.PNG" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:11:34 10.71.52.11 u94371385 close "/credentials/credentials.php" bytes read 0 written 222
+Dec 17 04:11:34 10.71.52.11 u94371385 [10.71.52.11|put|0|222|0|0|0|2f63726564656e7469616c732f63726564656e7469616c732e706870|]
+Dec 17 04:11:35 10.71.52.11 u94371385 close "/images/down.PNG" bytes read 0 written 58737
+Dec 17 04:11:35 10.71.52.11 u94371385 [10.71.52.11|put|1|58737|0|0|0|2f696d616765732f646f776e2e504e47|]
+Dec 17 04:11:35 10.71.52.11 u94371385 open "/images/logo.PNG" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:11:35 10.71.52.11 u94371385 open "/images/favicon.PNG" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:11:36 10.71.52.11 u94371385 close "/images/logo.PNG" bytes read 0 written 1485
+Dec 17 04:11:36 10.71.52.11 u94371385 [10.71.52.11|put|1|1485|0|0|0|2f696d616765732f6c6f676f2e504e47|]
+Dec 17 04:11:36 10.71.52.11 u94371385 close "/images/favicon.PNG" bytes read 0 written 1485
+Dec 17 04:11:36 10.71.52.11 u94371385 [10.71.52.11|put|1|1485|0|0|0|2f696d616765732f66617669636f6e2e504e47|]
+Dec 17 04:11:36 10.71.52.11 u94371385 open "/images/up.PNG" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:11:37 10.71.52.11 u94371385 close "/images/up.PNG" bytes read 0 written 122634
+Dec 17 04:11:37 10.71.52.11 u94371385 [10.71.52.11|put|1|122634|0|0|0|2f696d616765732f75702e504e47|]
+Dec 17 04:11:38 10.71.52.11 u94371385 open "/includes/addfriend.inc.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:11:38 10.71.52.11 u94371385 open "/includes/comments.inc.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:11:39 10.71.52.11 u94371385 close "/includes/addfriend.inc.php" bytes read 0 written 1653
+Dec 17 04:11:39 10.71.52.11 u94371385 [10.71.52.11|put|1|1653|0|0|0|2f696e636c756465732f616464667269656e642e696e632e706870|]
+Dec 17 04:11:39 10.71.52.11 u94371385 close "/includes/comments.inc.php" bytes read 0 written 1781
+Dec 17 04:11:39 10.71.52.11 u94371385 [10.71.52.11|put|1|1781|0|0|0|2f696e636c756465732f636f6d6d656e74732e696e632e706870|]
+Dec 17 04:11:40 10.71.52.11 u94371385 open "/includes/contact.inc.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:11:40 10.71.52.11 u94371385 open "/includes/createpost.inc.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:11:40 10.71.52.11 u94371385 close "/includes/contact.inc.php" bytes read 0 written 2943
+Dec 17 04:11:40 10.71.52.11 u94371385 [10.71.52.11|put|0|2943|0|0|0|2f696e636c756465732f636f6e746163742e696e632e706870|]
+Dec 17 04:11:40 10.71.52.11 u94371385 close "/includes/createpost.inc.php" bytes read 0 written 1649
+Dec 17 04:11:40 10.71.52.11 u94371385 [10.71.52.11|put|0|1649|0|0|0|2f696e636c756465732f637265617465706f73742e696e632e706870|]
+Dec 17 04:11:41 10.71.52.11 u94371385 open "/includes/dbh.inc.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:11:41 10.71.52.11 u94371385 open "/includes/editmyprofile.inc.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:11:41 10.71.52.11 u94371385 close "/includes/dbh.inc.php" bytes read 0 written 454
+Dec 17 04:11:41 10.71.52.11 u94371385 [10.71.52.11|put|0|454|0|0|0|2f696e636c756465732f6462682e696e632e706870|]
+Dec 17 04:11:41 10.71.52.11 u94371385 close "/includes/editmyprofile.inc.php" bytes read 0 written 1419
+Dec 17 04:11:41 10.71.52.11 u94371385 [10.71.52.11|put|0|1419|0|0|0|2f696e636c756465732f656469746d7970726f66696c652e696e632e706870|]
+Dec 17 04:11:42 10.71.52.11 u94371385 open "/includes/login.inc.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:11:42 10.71.52.11 u94371385 open "/includes/logout.inc.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:11:42 10.71.52.11 u94371385 close "/includes/login.inc.php" bytes read 0 written 1620
+Dec 17 04:11:42 10.71.52.11 u94371385 [10.71.52.11|put|0|1620|0|0|0|2f696e636c756465732f6c6f67696e2e696e632e706870|]
+Dec 17 04:11:42 10.71.52.11 u94371385 close "/includes/logout.inc.php" bytes read 0 written 247
+Dec 17 04:11:42 10.71.52.11 u94371385 [10.71.52.11|put|0|247|0|0|0|2f696e636c756465732f6c6f676f75742e696e632e706870|]
+Dec 17 04:11:43 10.71.52.11 u94371385 open "/includes/removefriend.inc.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:11:43 10.71.52.11 u94371385 open "/includes/resetpwd.inc.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:11:43 10.71.52.11 u94371385 close "/includes/removefriend.inc.php" bytes read 0 written 1691
+Dec 17 04:11:43 10.71.52.11 u94371385 [10.71.52.11|put|0|1691|0|0|0|2f696e636c756465732f72656d6f7665667269656e642e696e632e706870|]
+Dec 17 04:11:43 10.71.52.11 u94371385 close "/includes/resetpwd.inc.php" bytes read 0 written 2915
+Dec 17 04:11:43 10.71.52.11 u94371385 [10.71.52.11|put|0|2915|0|0|0|2f696e636c756465732f72657365747077642e696e632e706870|]
+Dec 17 04:11:44 10.71.52.11 u94371385 open "/includes/resetpwdrequest.inc.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:11:44 10.71.52.11 u94371385 open "/includes/signup.inc.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:11:44 10.71.52.11 u94371385 close "/includes/resetpwdrequest.inc.php" bytes read 0 written 1638
+Dec 17 04:11:44 10.71.52.11 u94371385 [10.71.52.11|put|0|1638|0|0|0|2f696e636c756465732f7265736574707764726571756573742e696e632e706870|]
+Dec 17 04:11:44 10.71.52.11 u94371385 close "/includes/signup.inc.php" bytes read 0 written 6797
+Dec 17 04:11:44 10.71.52.11 u94371385 [10.71.52.11|put|0|6797|0|0|0|2f696e636c756465732f7369676e75702e696e632e706870|]
+Dec 17 04:11:45 10.71.52.11 u94371385 open "/includes/updatepwd.inc.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:11:45 10.71.52.11 u94371385 close "/includes/updatepwd.inc.php" bytes read 0 written 1775
+Dec 17 04:11:45 10.71.52.11 u94371385 [10.71.52.11|put|0|1775|0|0|0|2f696e636c756465732f7570646174657077642e696e632e706870|]
+Dec 17 04:11:47 10.71.52.11 u94371385 open "/styles/styles.css" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:11:47 10.71.52.11 u94371385 close "/styles/styles.css" bytes read 0 written 14010
+Dec 17 04:11:47 10.71.52.11 u94371385 [10.71.52.11|put|0|14010|0|0|0|2f7374796c65732f7374796c65732e637373|]
+Dec 17 04:11:48 10.71.52.11 u94371385 open "/uploads/profileasdasdasd.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:11:49 10.71.52.11 u94371385 open "/uploads/profiledefault.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:11:49 10.71.52.11 u94371385 close "/uploads/profiledefault.jpg" bytes read 0 written 3809
+Dec 17 04:11:49 10.71.52.11 u94371385 [10.71.52.11|put|0|3809|0|0|0|2f75706c6f6164732f70726f66696c6564656661756c742e6a7067|]
+Dec 17 04:11:49 10.71.52.11 u94371385 close "/uploads/profileasdasdasd.jpg" bytes read 0 written 1248222
+Dec 17 04:11:49 10.71.52.11 u94371385 [10.71.52.11|put|1|1248222|0|0|0|2f75706c6f6164732f70726f66696c656173646173646173642e6a7067|]
+Dec 17 04:11:50 10.71.52.11 u94371385 open "/uploads/profiledefaultf.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:11:50 10.71.52.11 u94371385 open "/uploads/profileqweqwe.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:11:50 10.71.52.11 u94371385 close "/uploads/profiledefaultf.jpg" bytes read 0 written 2636
+Dec 17 04:11:50 10.71.52.11 u94371385 [10.71.52.11|put|0|2636|0|0|0|2f75706c6f6164732f70726f66696c6564656661756c74662e6a7067|]
+Dec 17 04:11:51 10.71.52.11 u94371385 open "/uploads/profilezxc.jpeg" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:11:51 10.71.52.11 u94371385 close "/uploads/profileqweqwe.jpg" bytes read 0 written 1248222
+Dec 17 04:11:51 10.71.52.11 u94371385 [10.71.52.11|put|1|1248222|0|0|0|2f75706c6f6164732f70726f66696c657177657177652e6a7067|]
+Dec 17 04:11:52 10.71.52.11 u94371385 close "/uploads/profilezxc.jpeg" bytes read 0 written 882853
+Dec 17 04:11:52 10.71.52.11 u94371385 [10.71.52.11|put|1|882853|0|0|0|2f75706c6f6164732f70726f66696c657a78632e6a706567|]
+Dec 17 04:12:51 10.71.52.11 u94371385 session closed for local user u94371385 from [10.71.52.11]
+Dec 17 04:12:51 10.71.52.11 u94371385 Connection closed by 10.71.52.11
+Dec 17 04:12:52 10.71.52.11 u94371385 session closed for local user u94371385 from [10.71.52.11]
+Dec 17 04:12:53 10.71.52.11 u94371385 Connection closed by 10.71.52.11
+Dec 17 04:17:50 10.71.52.11 u94371385 Connection from 10.71.52.11 port 60686 on 74.208.59.26 port 22
+Dec 17 04:17:52 10.71.52.11 u94371385 Accepted password for u94371385 from 10.71.52.11 port 60686 ssh2
+Dec 17 04:17:52 10.71.52.11 u94371385 Starting session: subsystem 'sftp' for u94371385 from 10.71.52.11 port 60686
+Dec 17 04:17:52 10.71.52.11 u94371385 session opened for local user u94371385 from [10.71.52.11]
+Dec 17 04:17:54 10.71.52.11 u94371385 open "/contact.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:17:55 10.71.52.11 u94371385 close "/contact.php" bytes read 0 written 2161
+Dec 17 04:17:55 10.71.52.11 u94371385 [10.71.52.11|put|1|2161|0|0|0|2f636f6e746163742e706870|]
+Dec 17 04:18:55 10.71.52.11 u94371385 session closed for local user u94371385 from [10.71.52.11]
+Dec 17 04:18:55 10.71.52.11 u94371385 Connection closed by 10.71.52.11
+Dec 17 04:18:59 10.71.52.11 u94371385 Connection from 10.71.52.11 port 33358 on 74.208.59.26 port 22
+Dec 17 04:19:00 10.71.52.11 u94371385 Accepted password for u94371385 from 10.71.52.11 port 33358 ssh2
+Dec 17 04:19:01 10.71.52.11 u94371385 Starting session: subsystem 'sftp' for u94371385 from 10.71.52.11 port 33358
+Dec 17 04:19:01 10.71.52.11 u94371385 session opened for local user u94371385 from [10.71.52.11]
+Dec 17 04:19:03 10.71.52.11 u94371385 open "/contact.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:19:03 10.71.52.11 u94371385 close "/contact.php" bytes read 0 written 2180
+Dec 17 04:19:03 10.71.52.11 u94371385 [10.71.52.11|put|0|2180|0|0|0|2f636f6e746163742e706870|]
+Dec 17 04:20:00 10.71.52.11 u94371385 open "/contact.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:20:00 10.71.52.11 u94371385 close "/contact.php" bytes read 0 written 2186
+Dec 17 04:20:00 10.71.52.11 u94371385 [10.71.52.11|put|0|2186|0|0|0|2f636f6e746163742e706870|]
+Dec 17 04:21:01 10.71.52.11 u94371385 session closed for local user u94371385 from [10.71.52.11]
+Dec 17 04:21:01 10.71.52.11 u94371385 Connection closed by 10.71.52.11
+Dec 17 04:21:02 10.71.52.11 u94371385 Connection from 10.71.52.11 port 31104 on 74.208.59.26 port 22
+Dec 17 04:21:03 10.71.52.11 u94371385 Accepted password for u94371385 from 10.71.52.11 port 31104 ssh2
+Dec 17 04:21:04 10.71.52.11 u94371385 Starting session: subsystem 'sftp' for u94371385 from 10.71.52.11 port 31104
+Dec 17 04:21:04 10.71.52.11 u94371385 session opened for local user u94371385 from [10.71.52.11]
+Dec 17 04:21:05 10.71.52.11 u94371385 open "/contact.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:21:06 10.71.52.11 u94371385 close "/contact.php" bytes read 0 written 2085
+Dec 17 04:21:06 10.71.52.11 u94371385 [10.71.52.11|put|1|2085|0|0|0|2f636f6e746163742e706870|]
+Dec 17 04:21:40 10.71.52.11 u94371385 open "/contact.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:21:40 10.71.52.11 u94371385 close "/contact.php" bytes read 0 written 2087
+Dec 17 04:21:40 10.71.52.11 u94371385 [10.71.52.11|put|0|2087|0|0|0|2f636f6e746163742e706870|]
+Dec 17 04:21:54 10.71.52.11 u94371385 open "/contact.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:21:55 10.71.52.11 u94371385 close "/contact.php" bytes read 0 written 2083
+Dec 17 04:21:55 10.71.52.11 u94371385 [10.71.52.11|put|1|2083|0|0|0|2f636f6e746163742e706870|]
+Dec 17 04:22:55 10.71.52.11 u94371385 open "/contact.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:22:56 10.71.52.11 u94371385 close "/contact.php" bytes read 0 written 2093
+Dec 17 04:22:56 10.71.52.11 u94371385 [10.71.52.11|put|1|2093|0|0|0|2f636f6e746163742e706870|]
+Dec 17 04:23:45 10.71.52.11 u94371385 open "/contact.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:23:45 10.71.52.11 u94371385 close "/contact.php" bytes read 0 written 2038
+Dec 17 04:23:45 10.71.52.11 u94371385 [10.71.52.11|put|0|2038|0|0|0|2f636f6e746163742e706870|]
+Dec 17 04:23:52 10.71.52.11 u94371385 open "/contact.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:23:52 10.71.52.11 u94371385 close "/contact.php" bytes read 0 written 2006
+Dec 17 04:23:52 10.71.52.11 u94371385 [10.71.52.11|put|0|2006|0|0|0|2f636f6e746163742e706870|]
+Dec 17 04:24:44 10.71.52.11 u94371385 open "/contact.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:24:45 10.71.52.11 u94371385 close "/contact.php" bytes read 0 written 2021
+Dec 17 04:24:45 10.71.52.11 u94371385 [10.71.52.11|put|1|2021|0|0|0|2f636f6e746163742e706870|]
+Dec 17 04:25:45 10.71.52.11 u94371385 session closed for local user u94371385 from [10.71.52.11]
+Dec 17 04:25:45 10.71.52.11 u94371385 Connection closed by 10.71.52.11
+Dec 17 04:36:42 10.71.52.11 u94371385 Connection from 10.71.52.11 port 50406 on 74.208.59.26 port 22
+Dec 17 04:36:43 10.71.52.11 u94371385 Accepted password for u94371385 from 10.71.52.11 port 50406 ssh2
+Dec 17 04:36:44 10.71.52.11 u94371385 Starting session: subsystem 'sftp' for u94371385 from 10.71.52.11 port 50406
+Dec 17 04:36:44 10.71.52.11 u94371385 session opened for local user u94371385 from [10.71.52.11]
+Dec 17 04:36:46 10.71.52.11 u94371385 open "/contact.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:36:46 10.71.52.11 u94371385 close "/contact.php" bytes read 0 written 2021
+Dec 17 04:36:46 10.71.52.11 u94371385 [10.71.52.11|put|0|2021|0|0|0|2f636f6e746163742e706870|]
+Dec 17 04:37:46 10.71.52.11 u94371385 session closed for local user u94371385 from [10.71.52.11]
+Dec 17 04:37:47 10.71.52.11 u94371385 Connection closed by 10.71.52.11
+Dec 17 04:38:51 10.71.52.11 u94371385 Connection from 10.71.52.11 port 50618 on 74.208.59.26 port 22
+Dec 17 04:38:53 10.71.52.11 u94371385 Accepted password for u94371385 from 10.71.52.11 port 50618 ssh2
+Dec 17 04:38:54 10.71.52.11 u94371385 Starting session: subsystem 'sftp' for u94371385 from 10.71.52.11 port 50618
+Dec 17 04:38:54 10.71.52.11 u94371385 session opened for local user u94371385 from [10.71.52.11]
+Dec 17 04:38:55 10.71.52.11 u94371385 open "/contact.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:38:56 10.71.52.11 u94371385 close "/contact.php" bytes read 0 written 2039
+Dec 17 04:38:56 10.71.52.11 u94371385 [10.71.52.11|put|1|2039|0|0|0|2f636f6e746163742e706870|]
+Dec 17 04:39:55 10.71.52.11 u94371385 open "/contact.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:39:55 10.71.52.11 u94371385 close "/contact.php" bytes read 0 written 2058
+Dec 17 04:39:55 10.71.52.11 u94371385 [10.71.52.11|put|0|2058|0|0|0|2f636f6e746163742e706870|]
+Dec 17 04:40:25 10.71.52.11 u94371385 open "/contact.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:40:25 10.71.52.11 u94371385 close "/contact.php" bytes read 0 written 2058
+Dec 17 04:40:25 10.71.52.11 u94371385 [10.71.52.11|put|0|2058|0|0|0|2f636f6e746163742e706870|]
+Dec 17 04:40:45 10.71.52.11 u94371385 open "/contact.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:40:45 10.71.52.11 u94371385 close "/contact.php" bytes read 0 written 2058
+Dec 17 04:40:45 10.71.52.11 u94371385 [10.71.52.11|put|0|2058|0|0|0|2f636f6e746163742e706870|]
+Dec 17 04:41:45 10.71.52.11 u94371385 session closed for local user u94371385 from [10.71.52.11]
+Dec 17 04:41:46 10.71.52.11 u94371385 Connection closed by 10.71.52.11
+Dec 17 04:42:34 10.71.52.11 u94371385 Connection from 10.71.52.11 port 34304 on 74.208.59.26 port 22
+Dec 17 04:42:36 10.71.52.11 u94371385 Accepted password for u94371385 from 10.71.52.11 port 34304 ssh2
+Dec 17 04:42:36 10.71.52.11 u94371385 Starting session: subsystem 'sftp' for u94371385 from 10.71.52.11 port 34304
+Dec 17 04:42:36 10.71.52.11 u94371385 session opened for local user u94371385 from [10.71.52.11]
+Dec 17 04:42:38 10.71.52.11 u94371385 open "/contact.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:42:39 10.71.52.11 u94371385 close "/contact.php" bytes read 0 written 2092
+Dec 17 04:42:39 10.71.52.11 u94371385 [10.71.52.11|put|1|2092|0|0|0|2f636f6e746163742e706870|]
+Dec 17 04:43:39 10.71.52.11 u94371385 session closed for local user u94371385 from [10.71.52.11]
+Dec 17 04:43:39 10.71.52.11 u94371385 Connection closed by 10.71.52.11
+Dec 17 04:54:18 10.71.52.11 u94371385 Connection from 10.71.52.11 port 20944 on 74.208.59.26 port 22
+Dec 17 04:54:20 10.71.52.11 u94371385 Accepted password for u94371385 from 10.71.52.11 port 20944 ssh2
+Dec 17 04:54:20 10.71.52.11 u94371385 Starting session: subsystem 'sftp' for u94371385 from 10.71.52.11 port 20944
+Dec 17 04:54:20 10.71.52.11 u94371385 session opened for local user u94371385 from [10.71.52.11]
+Dec 17 04:54:22 10.71.52.11 u94371385 open "/contact.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:54:22 10.71.52.11 u94371385 close "/contact.php" bytes read 0 written 2186
+Dec 17 04:54:22 10.71.52.11 u94371385 [10.71.52.11|put|0|2186|0|0|0|2f636f6e746163742e706870|]
+Dec 17 04:55:23 10.71.52.11 u94371385 session closed for local user u94371385 from [10.71.52.11]
+Dec 17 04:55:23 10.71.52.11 u94371385 Connection closed by 10.71.52.11
+Dec 17 04:56:07 10.71.52.11 u94371385 Connection from 10.71.52.11 port 14438 on 74.208.59.26 port 22
+Dec 17 04:56:08 10.71.52.11 u94371385 Accepted password for u94371385 from 10.71.52.11 port 14438 ssh2
+Dec 17 04:56:09 10.71.52.11 u94371385 Starting session: subsystem 'sftp' for u94371385 from 10.71.52.11 port 14438
+Dec 17 04:56:09 10.71.52.11 u94371385 session opened for local user u94371385 from [10.71.52.11]
+Dec 17 04:56:11 10.71.52.11 u94371385 open "/contact.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 04:56:11 10.71.52.11 u94371385 close "/contact.php" bytes read 0 written 2216
+Dec 17 04:56:11 10.71.52.11 u94371385 [10.71.52.11|put|0|2216|0|0|0|2f636f6e746163742e706870|]
+Dec 17 04:57:12 10.71.52.11 u94371385 session closed for local user u94371385 from [10.71.52.11]
+Dec 17 04:57:12 10.71.52.11 u94371385 Connection closed by 10.71.52.11
+Dec 17 13:13:07 10.71.52.3 tmp94371385-1531 Connection from 10.71.52.3 port 10372 on 74.208.59.26 port 22
+Dec 17 13:13:08 10.71.52.3 tmp94371385-1531 Accepted password for tmp94371385-1531 from 10.71.52.3 port 10372 ssh2
+Dec 17 13:13:08 10.71.52.3 tmp94371385-1531 Starting session: subsystem 'sftp' for tmp94371385-1531 from 10.71.52.3 port 10372
+Dec 17 13:13:08 10.71.52.3 tmp94371385-1531 session opened for local user tmp94371385-1531 from [10.71.52.3]
+Dec 17 13:13:43 10.71.52.3 tmp94371385-606 Connection from 10.71.52.3 port 34396 on 74.208.59.26 port 22
+Dec 17 13:13:44 10.71.52.3 tmp94371385-606 Accepted password for tmp94371385-606 from 10.71.52.3 port 34396 ssh2
+Dec 17 13:13:45 10.71.52.3 tmp94371385-1531 open "/phpmailer/class.smtp.php" flags READ mode 0666
+Dec 17 13:13:45 10.71.52.3 tmp94371385-1531 close "/phpmailer/class.smtp.php" bytes read 43495 written 0
+Dec 17 13:13:45 10.71.52.3 tmp94371385-1531 [10.71.52.3|get|0|43495|0|0|0|2f7068706d61696c65722f636c6173732e736d74702e706870|]
+Dec 17 13:25:26 10.71.52.3 tmp94371385-1531 Connection closed by 10.71.52.3
+Dec 17 13:25:26 10.71.52.3 tmp94371385-1531 session closed for local user tmp94371385-1531 from [10.71.52.3]
+Dec 17 13:25:26 10.71.52.3 tmp94371385-606 Connection closed by 10.71.52.3
+Dec 17 13:30:57 10.71.54.15 tmp94371385-4459 Connection from 10.71.54.15 port 27086 on 74.208.59.26 port 22
+Dec 17 13:30:57 10.71.54.15 tmp94371385-4459 Accepted password for tmp94371385-4459 from 10.71.54.15 port 27086 ssh2
+Dec 17 13:30:57 10.71.54.15 tmp94371385-4459 Starting session: subsystem 'sftp' for tmp94371385-4459 from 10.71.54.15 port 27086
+Dec 17 13:30:57 10.71.54.15 tmp94371385-4459 session opened for local user tmp94371385-4459 from [10.71.54.15]
+Dec 17 13:31:43 10.71.54.15 tmp94371385-687 Connection from 10.71.54.15 port 53284 on 74.208.59.26 port 22
+Dec 17 13:31:44 10.71.54.15 tmp94371385-687 Accepted password for tmp94371385-687 from 10.71.54.15 port 53284 ssh2
+Dec 17 13:31:45 10.71.54.15 tmp94371385-4459 open "/index.php" flags READ mode 0666
+Dec 17 13:31:45 10.71.54.15 tmp94371385-4459 close "/index.php" bytes read 4394 written 0
+Dec 17 13:31:45 10.71.54.15 tmp94371385-4459 [10.71.54.15|get|0|4394|0|0|0|2f696e6465782e706870|]
+Dec 17 13:32:40 10.71.54.15 tmp94371385-4459 open "/header.php" flags READ mode 0666
+Dec 17 13:32:40 10.71.54.15 tmp94371385-4459 close "/header.php" bytes read 4711 written 0
+Dec 17 13:32:40 10.71.54.15 tmp94371385-4459 [10.71.54.15|get|0|4711|0|0|0|2f6865616465722e706870|]
+Dec 17 13:34:12 10.71.54.15 tmp94371385-4459 open "/allposts.php" flags READ mode 0666
+Dec 17 13:34:13 10.71.54.15 tmp94371385-4459 close "/allposts.php" bytes read 1457 written 0
+Dec 17 13:34:13 10.71.54.15 tmp94371385-4459 [10.71.54.15|get|1|1457|0|0|0|2f616c6c706f7374732e706870|]
+Dec 17 13:35:56 10.71.54.15 tmp94371385-4459 open "/.htaccess" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 13:35:56 10.71.54.15 tmp94371385-4459 close "/.htaccess" bytes read 0 written 147
+Dec 17 13:35:56 10.71.54.15 tmp94371385-4459 [10.71.54.15|put|0|147|0|0|0|2f2e6874616363657373|]
+Dec 17 13:36:46 10.71.54.15 tmp94371385-4459 open "/.htaccess" flags READ mode 0666
+Dec 17 13:36:47 10.71.54.15 tmp94371385-4459 close "/.htaccess" bytes read 147 written 0
+Dec 17 13:36:47 10.71.54.15 tmp94371385-4459 [10.71.54.15|get|1|147|0|0|0|2f2e6874616363657373|]
+Dec 17 13:37:31 10.71.54.15 tmp94371385-4459 open "/.htaccess" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 13:37:31 10.71.54.15 tmp94371385-4459 close "/.htaccess" bytes read 0 written 133
+Dec 17 13:37:31 10.71.54.15 tmp94371385-4459 [10.71.54.15|put|0|133|0|0|0|2f2e6874616363657373|]
+Dec 17 13:45:42 10.71.54.15 tmp94371385-4459 session closed for local user tmp94371385-4459 from [10.71.54.15]
+Dec 17 13:45:42 10.71.54.15 tmp94371385-4459 Connection closed by 10.71.54.15
+Dec 17 13:45:42 10.71.54.15 tmp94371385-687 Connection closed by 10.71.54.15
+Dec 17 14:51:43 10.71.52.11 u94371385 Connection from 10.71.52.11 port 45766 on 74.208.59.26 port 22
+Dec 17 14:51:45 10.71.52.11 u94371385 Accepted password for u94371385 from 10.71.52.11 port 45766 ssh2
+Dec 17 14:51:45 10.71.52.11 u94371385 Starting session: subsystem 'sftp' for u94371385 from 10.71.52.11 port 45766
+Dec 17 14:51:45 10.71.52.11 u94371385 session opened for local user u94371385 from [10.71.52.11]
+Dec 17 14:51:54 10.71.52.11 u94371385 Connection from 10.71.52.11 port 52592 on 74.208.59.26 port 22
+Dec 17 14:51:55 10.71.52.11 u94371385 Accepted password for u94371385 from 10.71.52.11 port 52592 ssh2
+Dec 17 14:51:55 10.71.52.11 u94371385 Starting session: subsystem 'sftp' for u94371385 from 10.71.52.11 port 52592
+Dec 17 14:51:55 10.71.52.11 u94371385 session opened for local user u94371385 from [10.71.52.11]
+Dec 17 14:51:58 10.71.52.11 u94371385 open "/.htaccess" flags READ mode 0666
+Dec 17 14:51:58 10.71.52.11 u94371385 close "/.htaccess" bytes read 133 written 0
+Dec 17 14:51:58 10.71.52.11 u94371385 [10.71.52.11|get|0|133|0|0|0|2f2e6874616363657373|]
+Dec 17 14:52:13 10.71.52.11 u94371385 open "/_ProviderRestore/index.html" flags READ mode 0666
+Dec 17 14:52:14 10.71.52.11 u94371385 close "/_ProviderRestore/index.html" bytes read 229 written 0
+Dec 17 14:52:14 10.71.52.11 u94371385 [10.71.52.11|get|1|229|0|0|0|2f5f50726f7669646572526573746f72652f696e6465782e68746d6c|]
+Dec 17 14:52:15 10.71.52.11 u94371385 open "/_ProviderRestore/logs/last_traffic" flags READ mode 0666
+Dec 17 14:52:14 10.71.52.11 u94371385 Connection from 10.71.52.11 port 63578 on 74.208.59.26 port 22
+Dec 17 14:52:16 10.71.52.11 u94371385 Accepted password for u94371385 from 10.71.52.11 port 63578 ssh2
+Dec 17 14:52:16 10.71.52.11 u94371385 close "/_ProviderRestore/logs/last_traffic" bytes read 0 written 0
+Dec 17 14:52:16 10.71.52.11 u94371385 [10.71.52.11|get|1|0|0|0|0|2f5f50726f7669646572526573746f72652f6c6f67732f6c6173745f74726166666963|]
+Dec 17 14:52:16 10.71.52.11 u94371385 Starting session: subsystem 'sftp' for u94371385 from 10.71.52.11 port 63578
+Dec 17 14:52:16 10.71.52.11 u94371385 session opened for local user u94371385 from [10.71.52.11]
+Dec 17 14:52:17 10.71.52.11 u94371385 open "/_ProviderRestore/logs/info.py" flags READ mode 0666
+Dec 17 14:52:18 10.71.52.11 u94371385 close "/_ProviderRestore/logs/info.py" bytes read 6384 written 0
+Dec 17 14:52:18 10.71.52.11 u94371385 [10.71.52.11|get|1|6384|0|0|0|2f5f50726f7669646572526573746f72652f6c6f67732f696e666f2e7079|]
+Dec 17 14:52:18 10.71.52.11 u94371385 open "/_ProviderRestore/logs/traffic.db" flags READ mode 0666
+Dec 17 14:52:18 10.71.52.11 u94371385 open "/_ProviderRestore/logs/info.pl" flags READ mode 0666
+Dec 17 14:52:19 10.71.52.11 u94371385 close "/_ProviderRestore/logs/traffic.db" bytes read 12288 written 0
+Dec 17 14:52:19 10.71.52.11 u94371385 [10.71.52.11|get|1|12288|0|0|0|2f5f50726f7669646572526573746f72652f6c6f67732f747261666669632e6462|]
+Dec 17 14:52:19 10.71.52.11 u94371385 close "/_ProviderRestore/logs/info.pl" bytes read 4176 written 0
+Dec 17 14:52:19 10.71.52.11 u94371385 [10.71.52.11|get|1|4176|0|0|0|2f5f50726f7669646572526573746f72652f6c6f67732f696e666f2e706c|]
+Dec 17 14:52:20 10.71.52.11 u94371385 open "/_ProviderRestore/logs/info.php5" flags READ mode 0666
+Dec 17 14:52:20 10.71.52.11 u94371385 open "/_ProviderRestore/logs/access.log.48.6.gz" flags READ mode 0666
+Dec 17 14:52:21 10.71.52.11 u94371385 close "/_ProviderRestore/logs/info.php5" bytes read 21 written 0
+Dec 17 14:52:21 10.71.52.11 u94371385 [10.71.52.11|get|1|21|0|0|0|2f5f50726f7669646572526573746f72652f6c6f67732f696e666f2e70687035|]
+Dec 17 14:52:21 10.71.52.11 u94371385 close "/_ProviderRestore/logs/access.log.48.6.gz" bytes read 231 written 0
+Dec 17 14:52:21 10.71.52.11 u94371385 [10.71.52.11|get|1|231|0|0|0|2f5f50726f7669646572526573746f72652f6c6f67732f6163636573732e6c6f672e34382e362e677a|]
+Dec 17 14:52:21 10.71.52.11 u94371385 open "/_ProviderRestore/logs/access.log.46.gz" flags READ mode 0666
+Dec 17 14:52:22 10.71.52.11 u94371385 open "/_ProviderRestore/logs/access.log.45.gz" flags READ mode 0666
+Dec 17 14:52:22 10.71.52.11 u94371385 close "/_ProviderRestore/logs/access.log.46.gz" bytes read 427 written 0
+Dec 17 14:52:22 10.71.52.11 u94371385 [10.71.52.11|get|1|427|0|0|0|2f5f50726f7669646572526573746f72652f6c6f67732f6163636573732e6c6f672e34362e677a|]
+Dec 17 14:52:23 10.71.52.11 u94371385 close "/_ProviderRestore/logs/access.log.45.gz" bytes read 213 written 0
+Dec 17 14:52:23 10.71.52.11 u94371385 [10.71.52.11|get|1|213|0|0|0|2f5f50726f7669646572526573746f72652f6c6f67732f6163636573732e6c6f672e34352e677a|]
+Dec 17 14:52:23 10.71.52.11 u94371385 open "/_ProviderRestore/logs/access.log.42.gz" flags READ mode 0666
+Dec 17 14:52:23 10.71.52.11 u94371385 open "/_ProviderRestore/logs/access.log.41.gz" flags READ mode 0666
+Dec 17 14:52:24 10.71.52.11 u94371385 close "/_ProviderRestore/logs/access.log.42.gz" bytes read 298 written 0
+Dec 17 14:52:24 10.71.52.11 u94371385 [10.71.52.11|get|1|298|0|0|0|2f5f50726f7669646572526573746f72652f6c6f67732f6163636573732e6c6f672e34322e677a|]
+Dec 17 14:52:24 10.71.52.11 u94371385 close "/_ProviderRestore/logs/access.log.41.gz" bytes read 213 written 0
+Dec 17 14:52:24 10.71.52.11 u94371385 [10.71.52.11|get|1|213|0|0|0|2f5f50726f7669646572526573746f72652f6c6f67732f6163636573732e6c6f672e34312e677a|]
+Dec 17 14:52:25 10.71.52.11 u94371385 open "/_ProviderRestore/logs/.htaccess" flags READ mode 0666
+Dec 17 14:52:25 10.71.52.11 u94371385 close "/_ProviderRestore/logs/.htaccess" bytes read 267 written 0
+Dec 17 14:52:25 10.71.52.11 u94371385 [10.71.52.11|get|0|267|0|0|0|2f5f50726f7669646572526573746f72652f6c6f67732f2e6874616363657373|]
+Dec 17 14:52:26 10.71.52.11 u94371385 open "/_ProviderRestore/logs/traffic.html/index.html" flags READ mode 0666
+Dec 17 14:52:26 10.71.52.11 u94371385 close "/_ProviderRestore/logs/traffic.html/index.html" bytes read 4901 written 0
+Dec 17 14:52:26 10.71.52.11 u94371385 [10.71.52.11|get|0|4901|0|0|0|2f5f50726f7669646572526573746f72652f6c6f67732f747261666669632e68746d6c2f696e6465782e68746d6c|]
+Dec 17 14:52:27 10.71.52.11 u94371385 open "/_ProviderRestore/logs/traffic.html/12.html" flags READ mode 0666
+Dec 17 14:52:27 10.71.52.11 u94371385 open "/_ProviderRestore/logs/traffic.html/11.html" flags READ mode 0666
+Dec 17 14:52:27 10.71.52.11 u94371385 sent status No such file
+Dec 17 14:52:28 10.71.52.11 u94371385 close "/_ProviderRestore/logs/traffic.html/12.html" bytes read 1325 written 0
+Dec 17 14:52:28 10.71.52.11 u94371385 [10.71.52.11|get|1|1325|0|0|0|2f5f50726f7669646572526573746f72652f6c6f67732f747261666669632e68746d6c2f31322e68746d6c|]
+Dec 17 14:52:28 10.71.52.11 u94371385 close "/_ProviderRestore/logs/traffic.html/11.html" bytes read 2003 written 0
+Dec 17 14:52:28 10.71.52.11 u94371385 [10.71.52.11|get|1|2003|0|0|0|2f5f50726f7669646572526573746f72652f6c6f67732f747261666669632e68746d6c2f31312e68746d6c|]
+Dec 17 14:52:28 10.71.52.11 u94371385 open "/_ProviderRestore/logs/traffic.html/10.html" flags READ mode 0666
+Dec 17 14:52:29 10.71.52.11 u94371385 open "/_ProviderRestore/logs/traffic.html/09.html" flags READ mode 0666
+Dec 17 14:52:29 10.71.52.11 u94371385 close "/_ProviderRestore/logs/traffic.html/10.html" bytes read 2681 written 0
+Dec 17 14:52:29 10.71.52.11 u94371385 [10.71.52.11|get|1|2681|0|0|0|2f5f50726f7669646572526573746f72652f6c6f67732f747261666669632e68746d6c2f31302e68746d6c|]
+Dec 17 14:52:30 10.71.52.11 u94371385 close "/_ProviderRestore/logs/traffic.html/09.html" bytes read 2007 written 0
+Dec 17 14:52:30 10.71.52.11 u94371385 [10.71.52.11|get|1|2007|0|0|0|2f5f50726f7669646572526573746f72652f6c6f67732f747261666669632e68746d6c2f30392e68746d6c|]
+Dec 17 14:52:30 10.71.52.11 u94371385 open "/_ProviderRestore/logs/traffic.html/08.html" flags READ mode 0666
+Dec 17 14:52:30 10.71.52.11 u94371385 open "/_ProviderRestore/logs/traffic.html/07.html" flags READ mode 0666
+Dec 17 14:52:31 10.71.52.11 u94371385 close "/_ProviderRestore/logs/traffic.html/08.html" bytes read 3020 written 0
+Dec 17 14:52:31 10.71.52.11 u94371385 [10.71.52.11|get|1|3020|0|0|0|2f5f50726f7669646572526573746f72652f6c6f67732f747261666669632e68746d6c2f30382e68746d6c|]
+Dec 17 14:52:31 10.71.52.11 u94371385 close "/_ProviderRestore/logs/traffic.html/07.html" bytes read 2358 written 0
+Dec 17 14:52:31 10.71.52.11 u94371385 [10.71.52.11|get|1|2358|0|0|0|2f5f50726f7669646572526573746f72652f6c6f67732f747261666669632e68746d6c2f30372e68746d6c|]
+Dec 17 14:52:32 10.71.52.11 u94371385 open "/_ProviderRestore/logs/traffic.html/.md5sums" flags READ mode 0666
+Dec 17 14:52:32 10.71.52.11 u94371385 sent status Permission denied
+Dec 17 14:52:32 10.71.52.11 u94371385 open "/_ProviderRestore/logs/traffic.html/.htaccess" flags READ mode 0666
+Dec 17 14:52:32 10.71.52.11 u94371385 open "/_ProviderRestore/logs/traffic.html/.md5sums" flags READ mode 0666
+Dec 17 14:52:32 10.71.52.11 u94371385 sent status Permission denied
+Dec 17 14:52:33 10.71.52.11 u94371385 close "/_ProviderRestore/logs/traffic.html/.htaccess" bytes read 23 written 0
+Dec 17 14:52:33 10.71.52.11 u94371385 [10.71.52.11|get|1|23|0|0|0|2f5f50726f7669646572526573746f72652f6c6f67732f747261666669632e68746d6c2f2e6874616363657373|]
+Dec 17 14:52:33 10.71.52.11 u94371385 open "/_ProviderRestore/logs/traffic.html/.md5sums" flags READ mode 0666
+Dec 17 14:52:33 10.71.52.11 u94371385 sent status Permission denied
+Dec 17 14:52:34 10.71.52.11 u94371385 open "/logs/mail.log" flags READ mode 0666
+Dec 17 14:52:35 10.71.52.11 u94371385 open "/logs/sftp.log" flags READ mode 0666
+Dec 17 14:52:35 10.71.52.11 u94371385 close "/logs/mail.log" bytes read 432 written 0
+Dec 17 14:52:35 10.71.52.11 u94371385 [10.71.52.11|get|1|432|0|0|0|2f6c6f67732f6d61696c2e6c6f67|]
+Dec 17 14:52:36 10.71.52.11 u94371385 open "/logs/mail.log.50.gz" flags READ mode 0666
+Dec 17 14:52:36 10.71.52.11 u94371385 close "/logs/sftp.log" bytes read 88539 written 0
+Dec 17 14:52:36 10.71.52.11 u94371385 [10.71.52.11|get|1|88539|0|0|0|2f6c6f67732f736674702e6c6f67|]
+Dec 17 14:52:37 10.71.52.11 u94371385 close "/logs/mail.log.50.gz" bytes read 1001 written 0
+Dec 17 14:52:37 10.71.52.11 u94371385 [10.71.52.11|get|1|1001|0|0|0|2f6c6f67732f6d61696c2e6c6f672e35302e677a|]
+Dec 17 14:52:37 10.71.52.11 u94371385 open "/logs/sftp.log.50.gz" flags READ mode 0666
+Dec 17 14:52:37 10.71.52.11 u94371385 open "/logs/access.log.50.7.gz" flags READ mode 0666
+Dec 17 14:52:38 10.71.52.11 u94371385 close "/logs/sftp.log.50.gz" bytes read 103759 written 0
+Dec 17 14:52:38 10.71.52.11 u94371385 [10.71.52.11|get|1|103759|0|0|0|2f6c6f67732f736674702e6c6f672e35302e677a|]
+Dec 17 14:52:38 10.71.52.11 u94371385 close "/logs/access.log.50.7.gz" bytes read 2322 written 0
+Dec 17 14:52:38 10.71.52.11 u94371385 [10.71.52.11|get|1|2322|0|0|0|2f6c6f67732f6163636573732e6c6f672e35302e372e677a|]
+Dec 17 14:52:38 10.71.52.11 u94371385 open "/logs/access.log.51.1" flags READ mode 0666
+Dec 17 14:52:39 10.71.52.11 u94371385 open "/logs/access.log.50.6.gz" flags READ mode 0666
+Dec 17 14:52:39 10.71.52.11 u94371385 close "/logs/access.log.51.1" bytes read 97935 written 0
+Dec 17 14:52:39 10.71.52.11 u94371385 [10.71.52.11|get|1|97935|0|0|0|2f6c6f67732f6163636573732e6c6f672e35312e31|]
+Dec 17 14:52:40 10.71.52.11 u94371385 close "/logs/access.log.50.6.gz" bytes read 528 written 0
+Dec 17 14:52:40 10.71.52.11 u94371385 [10.71.52.11|get|1|528|0|0|0|2f6c6f67732f6163636573732e6c6f672e35302e362e677a|]
+Dec 17 14:52:40 10.71.52.11 u94371385 open "/logs/access.log.50.5.gz" flags READ mode 0666
+Dec 17 14:52:41 10.71.52.11 u94371385 open "/logs/access.log.50.4.gz" flags READ mode 0666
+Dec 17 14:52:41 10.71.52.11 u94371385 close "/logs/access.log.50.5.gz" bytes read 2620 written 0
+Dec 17 14:52:41 10.71.52.11 u94371385 [10.71.52.11|get|1|2620|0|0|0|2f6c6f67732f6163636573732e6c6f672e35302e352e677a|]
+Dec 17 14:52:41 10.71.52.11 u94371385 close "/logs/access.log.50.4.gz" bytes read 2488 written 0
+Dec 17 14:52:41 10.71.52.11 u94371385 [10.71.52.11|get|0|2488|0|0|0|2f6c6f67732f6163636573732e6c6f672e35302e342e677a|]
+Dec 17 14:52:42 10.71.52.11 u94371385 open "/logs/access.log.50.2.gz" flags READ mode 0666
+Dec 17 14:52:42 10.71.52.11 u94371385 open "/logs/access.log.48.gz" flags READ mode 0666
+Dec 17 14:52:42 10.71.52.11 u94371385 close "/logs/access.log.50.2.gz" bytes read 216 written 0
+Dec 17 14:52:42 10.71.52.11 u94371385 [10.71.52.11|get|0|216|0|0|0|2f6c6f67732f6163636573732e6c6f672e35302e322e677a|]
+Dec 17 14:52:43 10.71.52.11 u94371385 close "/logs/access.log.48.gz" bytes read 215 written 0
+Dec 17 14:52:43 10.71.52.11 u94371385 [10.71.52.11|get|1|215|0|0|0|2f6c6f67732f6163636573732e6c6f672e34382e677a|]
+Dec 17 14:52:43 10.71.52.11 u94371385 open "/logs/access.log.46.gz" flags READ mode 0666
+Dec 17 14:52:44 10.71.52.11 u94371385 open "/logs/access.log.45.gz" flags READ mode 0666
+Dec 17 14:52:44 10.71.52.11 u94371385 close "/logs/access.log.46.gz" bytes read 427 written 0
+Dec 17 14:52:44 10.71.52.11 u94371385 [10.71.52.11|get|1|427|0|0|0|2f6c6f67732f6163636573732e6c6f672e34362e677a|]
+Dec 17 14:52:44 10.71.52.11 u94371385 close "/logs/access.log.45.gz" bytes read 213 written 0
+Dec 17 14:52:44 10.71.52.11 u94371385 [10.71.52.11|get|0|213|0|0|0|2f6c6f67732f6163636573732e6c6f672e34352e677a|]
+Dec 17 14:52:45 10.71.52.11 u94371385 open "/logs/last_traffic" flags READ mode 0666
+Dec 17 14:52:45 10.71.52.11 u94371385 open "/logs/traffic.db" flags READ mode 0666
+Dec 17 14:52:45 10.71.52.11 u94371385 close "/logs/last_traffic" bytes read 0 written 0
+Dec 17 14:52:45 10.71.52.11 u94371385 [10.71.52.11|get|0|0|0|0|0|2f6c6f67732f6c6173745f74726166666963|]
+Dec 17 14:52:46 10.71.52.11 u94371385 close "/logs/traffic.db" bytes read 12288 written 0
+Dec 17 14:52:46 10.71.52.11 u94371385 [10.71.52.11|get|1|12288|0|0|0|2f6c6f67732f747261666669632e6462|]
+Dec 17 14:52:46 10.71.52.11 u94371385 open "/logs/info.py" flags READ mode 0666
+Dec 17 14:52:47 10.71.52.11 u94371385 open "/logs/info.php5" flags READ mode 0666
+Dec 17 14:52:47 10.71.52.11 u94371385 close "/logs/info.py" bytes read 6384 written 0
+Dec 17 14:52:47 10.71.52.11 u94371385 [10.71.52.11|get|1|6384|0|0|0|2f6c6f67732f696e666f2e7079|]
+Dec 17 14:52:48 10.71.52.11 u94371385 close "/logs/info.php5" bytes read 21 written 0
+Dec 17 14:52:48 10.71.52.11 u94371385 [10.71.52.11|get|1|21|0|0|0|2f6c6f67732f696e666f2e70687035|]
+Dec 17 14:52:48 10.71.52.11 u94371385 open "/logs/info.pl" flags READ mode 0666
+Dec 17 14:52:48 10.71.52.11 u94371385 open "/logs/.htaccess" flags READ mode 0666
+Dec 17 14:52:48 10.71.52.11 u94371385 close "/logs/info.pl" bytes read 4176 written 0
+Dec 17 14:52:48 10.71.52.11 u94371385 [10.71.52.11|get|0|4176|0|0|0|2f6c6f67732f696e666f2e706c|]
+Dec 17 14:52:49 10.71.52.11 u94371385 close "/logs/.htaccess" bytes read 267 written 0
+Dec 17 14:52:49 10.71.52.11 u94371385 [10.71.52.11|get|1|267|0|0|0|2f6c6f67732f2e6874616363657373|]
+Dec 17 14:52:50 10.71.52.11 u94371385 open "/logs/traffic.html/12.html" flags READ mode 0666
+Dec 17 14:52:51 10.71.52.11 u94371385 open "/logs/traffic.html/11.html" flags READ mode 0666
+Dec 17 14:52:51 10.71.52.11 u94371385 close "/logs/traffic.html/12.html" bytes read 3044 written 0
+Dec 17 14:52:51 10.71.52.11 u94371385 [10.71.52.11|get|1|3044|0|0|0|2f6c6f67732f747261666669632e68746d6c2f31322e68746d6c|]
+Dec 17 14:52:52 10.71.52.11 u94371385 close "/logs/traffic.html/11.html" bytes read 2003 written 0
+Dec 17 14:52:52 10.71.52.11 u94371385 [10.71.52.11|get|1|2003|0|0|0|2f6c6f67732f747261666669632e68746d6c2f31312e68746d6c|]
+Dec 17 14:52:52 10.71.52.11 u94371385 open "/logs/traffic.html/10.html" flags READ mode 0666
+Dec 17 14:52:52 10.71.52.11 u94371385 open "/logs/traffic.html/09.html" flags READ mode 0666
+Dec 17 14:52:52 10.71.52.11 u94371385 close "/logs/traffic.html/10.html" bytes read 2681 written 0
+Dec 17 14:52:52 10.71.52.11 u94371385 [10.71.52.11|get|0|2681|0|0|0|2f6c6f67732f747261666669632e68746d6c2f31302e68746d6c|]
+Dec 17 14:52:53 10.71.52.11 u94371385 close "/logs/traffic.html/09.html" bytes read 2007 written 0
+Dec 17 14:52:53 10.71.52.11 u94371385 [10.71.52.11|get|1|2007|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30392e68746d6c|]
+Dec 17 14:52:53 10.71.52.11 u94371385 open "/logs/traffic.html/08.html" flags READ mode 0666
+Dec 17 14:52:54 10.71.52.11 u94371385 open "/logs/traffic.html/.md5sums" flags READ mode 0666
+Dec 17 14:52:54 10.71.52.11 u94371385 sent status Permission denied
+Dec 17 14:52:54 10.71.52.11 u94371385 close "/logs/traffic.html/08.html" bytes read 3020 written 0
+Dec 17 14:52:54 10.71.52.11 u94371385 [10.71.52.11|get|1|3020|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30382e68746d6c|]
+Dec 17 14:52:55 10.71.52.11 u94371385 open "/logs/traffic.html/.md5sums" flags READ mode 0666
+Dec 17 14:52:55 10.71.52.11 u94371385 sent status Permission denied
+Dec 17 14:52:55 10.71.52.11 u94371385 open "/logs/traffic.html/07.html" flags READ mode 0666
+Dec 17 14:52:55 10.71.52.11 u94371385 open "/logs/traffic.html/.md5sums" flags READ mode 0666
+Dec 17 14:52:55 10.71.52.11 u94371385 sent status Permission denied
+Dec 17 14:52:55 10.71.52.11 u94371385 close "/logs/traffic.html/07.html" bytes read 2358 written 0
+Dec 17 14:52:55 10.71.52.11 u94371385 [10.71.52.11|get|0|2358|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30372e68746d6c|]
+Dec 17 14:52:56 10.71.52.11 u94371385 open "/logs/traffic.html/index.html" flags READ mode 0666
+Dec 17 14:52:56 10.71.52.11 u94371385 open "/logs/traffic.html/.htaccess" flags READ mode 0666
+Dec 17 14:52:57 10.71.52.11 u94371385 close "/logs/traffic.html/index.html" bytes read 4911 written 0
+Dec 17 14:52:57 10.71.52.11 u94371385 [10.71.52.11|get|1|4911|0|0|0|2f6c6f67732f747261666669632e68746d6c2f696e6465782e68746d6c|]
+Dec 17 14:52:57 10.71.52.11 u94371385 close "/logs/traffic.html/.htaccess" bytes read 23 written 0
+Dec 17 14:52:57 10.71.52.11 u94371385 [10.71.52.11|get|1|23|0|0|0|2f6c6f67732f747261666669632e68746d6c2f2e6874616363657373|]
+Dec 17 14:52:59 10.71.52.11 u94371385 open "/logs/access.log.51.1" flags READ mode 0666
+Dec 17 14:53:00 10.71.52.11 u94371385 close "/logs/access.log.51.1" bytes read 97935 written 0
+Dec 17 14:53:00 10.71.52.11 u94371385 [10.71.52.11|get|1|97935|0|0|0|2f6c6f67732f6163636573732e6c6f672e35312e31|]
+Dec 17 14:53:00 10.71.52.11 u94371385 open "/phpmailer/cacert.pem" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 14:53:01 10.71.52.11 u94371385 close "/phpmailer/cacert.pem" bytes read 0 written 207949
+Dec 17 14:53:01 10.71.52.11 u94371385 [10.71.52.11|put|1|207949|0|0|0|2f7068706d61696c65722f6361636572742e70656d|]
+Dec 17 14:53:01 10.71.52.11 u94371385 open "/phpmailer/class.phpmailer.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 14:53:01 10.71.52.11 u94371385 open "/phpmailer/class.phpmaileroauth.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 14:53:02 10.71.52.11 u94371385 close "/phpmailer/class.phpmailer.php" bytes read 0 written 147889
+Dec 17 14:53:02 10.71.52.11 u94371385 [10.71.52.11|put|1|147889|0|0|0|2f7068706d61696c65722f636c6173732e7068706d61696c65722e706870|]
+Dec 17 14:53:02 10.71.52.11 u94371385 close "/phpmailer/class.phpmaileroauth.php" bytes read 0 written 7216
+Dec 17 14:53:02 10.71.52.11 u94371385 [10.71.52.11|put|1|7216|0|0|0|2f7068706d61696c65722f636c6173732e7068706d61696c65726f617574682e706870|]
+Dec 17 14:53:02 10.71.52.11 u94371385 open "/phpmailer/class.phpmaileroauthgoogle.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 14:53:02 10.71.52.11 u94371385 open "/phpmailer/class.pop3.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 14:53:03 10.71.52.11 u94371385 close "/phpmailer/class.phpmaileroauthgoogle.php" bytes read 0 written 2464
+Dec 17 14:53:03 10.71.52.11 u94371385 [10.71.52.11|put|1|2464|0|0|0|2f7068706d61696c65722f636c6173732e7068706d61696c65726f61757468676f6f676c652e706870|]
+Dec 17 14:53:03 10.71.52.11 u94371385 close "/phpmailer/class.pop3.php" bytes read 0 written 11006
+Dec 17 14:53:03 10.71.52.11 u94371385 [10.71.52.11|put|1|11006|0|0|0|2f7068706d61696c65722f636c6173732e706f70332e706870|]
+Dec 17 14:53:03 10.71.52.11 u94371385 open "/phpmailer/class.smtp.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 14:53:03 10.71.52.11 u94371385 open "/phpmailer/composer.json" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 14:53:04 10.71.52.11 u94371385 close "/phpmailer/class.smtp.php" bytes read 0 written 43496
+Dec 17 14:53:04 10.71.52.11 u94371385 [10.71.52.11|put|1|43496|0|0|0|2f7068706d61696c65722f636c6173732e736d74702e706870|]
+Dec 17 14:53:04 10.71.52.11 u94371385 close "/phpmailer/composer.json" bytes read 0 written 1885
+Dec 17 14:53:04 10.71.52.11 u94371385 [10.71.52.11|put|1|1885|0|0|0|2f7068706d61696c65722f636f6d706f7365722e6a736f6e|]
+Dec 17 14:53:04 10.71.52.11 u94371385 open "/phpmailer/composer.lock" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 14:53:04 10.71.52.11 u94371385 open "/phpmailer/get_oauth_token.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 14:53:05 10.71.52.11 u94371385 close "/phpmailer/composer.lock" bytes read 0 written 128969
+Dec 17 14:53:05 10.71.52.11 u94371385 [10.71.52.11|put|1|128969|0|0|0|2f7068706d61696c65722f636f6d706f7365722e6c6f636b|]
+Dec 17 14:53:05 10.71.52.11 u94371385 close "/phpmailer/get_oauth_token.php" bytes read 0 written 5036
+Dec 17 14:53:05 10.71.52.11 u94371385 [10.71.52.11|put|1|5036|0|0|0|2f7068706d61696c65722f6765745f6f617574685f746f6b656e2e706870|]
+Dec 17 14:53:05 10.71.52.11 u94371385 open "/phpmailer/LICENSE" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 14:53:05 10.71.52.11 u94371385 open "/phpmailer/PHPMailerAutoload.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 14:53:06 10.71.52.11 u94371385 close "/phpmailer/LICENSE" bytes read 0 written 26529
+Dec 17 14:53:06 10.71.52.11 u94371385 [10.71.52.11|put|1|26529|0|0|0|2f7068706d61696c65722f4c4943454e5345|]
+Dec 17 14:53:06 10.71.52.11 u94371385 close "/phpmailer/PHPMailerAutoload.php" bytes read 0 written 1689
+Dec 17 14:53:06 10.71.52.11 u94371385 [10.71.52.11|put|1|1689|0|0|0|2f7068706d61696c65722f5048504d61696c65724175746f6c6f61642e706870|]
+Dec 17 14:53:06 10.71.52.11 u94371385 open "/phpmailer/VERSION" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 14:53:07 10.71.52.11 u94371385 close "/phpmailer/VERSION" bytes read 0 written 6
+Dec 17 14:53:07 10.71.52.11 u94371385 [10.71.52.11|put|1|6|0|0|0|2f7068706d61696c65722f56455253494f4e|]
+Dec 17 14:53:08 10.71.52.11 u94371385 open "/phpmailer/extras del/EasyPeasyICS.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 14:53:08 10.71.52.11 u94371385 open "/phpmailer/extras del/htmlfilter.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 14:53:09 10.71.52.11 u94371385 close "/phpmailer/extras del/EasyPeasyICS.php" bytes read 0 written 4062
+Dec 17 14:53:09 10.71.52.11 u94371385 [10.71.52.11|put|1|4062|0|0|0|2f7068706d61696c65722f6578747261732064656c2f4561737950656173794943532e706870|]
+Dec 17 14:53:09 10.71.52.11 u94371385 close "/phpmailer/extras del/htmlfilter.php" bytes read 0 written 39267
+Dec 17 14:53:09 10.71.52.11 u94371385 [10.71.52.11|put|1|39267|0|0|0|2f7068706d61696c65722f6578747261732064656c2f68746d6c66696c7465722e706870|]
+Dec 17 14:53:10 10.71.52.11 u94371385 open "/phpmailer/extras del/ntlm_sasl_client.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 14:53:10 10.71.52.11 u94371385 open "/phpmailer/extras del/README.md" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 14:53:10 10.71.52.11 u94371385 close "/phpmailer/extras del/ntlm_sasl_client.php" bytes read 0 written 6651
+Dec 17 14:53:10 10.71.52.11 u94371385 [10.71.52.11|put|0|6651|0|0|0|2f7068706d61696c65722f6578747261732064656c2f6e746c6d5f7361736c5f636c69656e742e706870|]
+Dec 17 14:53:10 10.71.52.11 u94371385 close "/phpmailer/extras del/README.md" bytes read 0 written 1636
+Dec 17 14:53:10 10.71.52.11 u94371385 [10.71.52.11|put|0|1636|0|0|0|2f7068706d61696c65722f6578747261732064656c2f524541444d452e6d64|]
+Dec 17 14:53:13 10.71.52.11 u94371385 open "/phpmailer/language/phpmailer.lang-ar.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 14:53:13 10.71.52.11 u94371385 open "/phpmailer/language/phpmailer.lang-am.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 14:53:13 10.71.52.11 u94371385 close "/phpmailer/language/phpmailer.lang-ar.php" bytes read 0 written 2055
+Dec 17 14:53:13 10.71.52.11 u94371385 [10.71.52.11|put|0|2055|0|0|0|2f7068706d61696c65722f6c616e67756167652f7068706d61696c65722e6c616e672d61722e706870|]
+Dec 17 14:53:13 10.71.52.11 u94371385 close "/phpmailer/language/phpmailer.lang-am.php" bytes read 0 written 2185
+Dec 17 14:53:13 10.71.52.11 u94371385 [10.71.52.11|put|0|2185|0|0|0|2f7068706d61696c65722f6c616e67756167652f7068706d61696c65722e6c616e672d616d2e706870|]
+Dec 17 14:53:14 10.71.52.11 u94371385 open "/phpmailer/language/phpmailer.lang-az.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 14:53:14 10.71.52.11 u94371385 open "/phpmailer/language/phpmailer.lang-ba.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 14:53:14 10.71.52.11 u94371385 close "/phpmailer/language/phpmailer.lang-az.php" bytes read 0 written 1748
+Dec 17 14:53:14 10.71.52.11 u94371385 [10.71.52.11|put|0|1748|0|0|0|2f7068706d61696c65722f6c616e67756167652f7068706d61696c65722e6c616e672d617a2e706870|]
+Dec 17 14:53:14 10.71.52.11 u94371385 close "/phpmailer/language/phpmailer.lang-ba.php" bytes read 0 written 1741
+Dec 17 14:53:14 10.71.52.11 u94371385 [10.71.52.11|put|0|1741|0|0|0|2f7068706d61696c65722f6c616e67756167652f7068706d61696c65722e6c616e672d62612e706870|]
+Dec 17 14:53:15 10.71.52.11 u94371385 open "/phpmailer/language/phpmailer.lang-bg.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 14:53:15 10.71.52.11 u94371385 open "/phpmailer/language/phpmailer.lang-be.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 14:53:15 10.71.52.11 u94371385 close "/phpmailer/language/phpmailer.lang-bg.php" bytes read 0 written 2195
+Dec 17 14:53:15 10.71.52.11 u94371385 [10.71.52.11|put|0|2195|0|0|0|2f7068706d61696c65722f6c616e67756167652f7068706d61696c65722e6c616e672d62672e706870|]
+Dec 17 14:53:15 10.71.52.11 u94371385 close "/phpmailer/language/phpmailer.lang-be.php" bytes read 0 written 2177
+Dec 17 14:53:15 10.71.52.11 u94371385 [10.71.52.11|put|0|2177|0|0|0|2f7068706d61696c65722f6c616e67756167652f7068706d61696c65722e6c616e672d62652e706870|]
+Dec 17 14:53:16 10.71.52.11 u94371385 open "/phpmailer/language/phpmailer.lang-ca.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 14:53:16 10.71.52.11 u94371385 open "/phpmailer/language/phpmailer.lang-ch.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 14:53:16 10.71.52.11 u94371385 close "/phpmailer/language/phpmailer.lang-ca.php" bytes read 0 written 1729
+Dec 17 14:53:16 10.71.52.11 u94371385 [10.71.52.11|put|0|1729|0|0|0|2f7068706d61696c65722f6c616e67756167652f7068706d61696c65722e6c616e672d63612e706870|]
+Dec 17 14:53:16 10.71.52.11 u94371385 close "/phpmailer/language/phpmailer.lang-ch.php" bytes read 0 written 1613
+Dec 17 14:53:16 10.71.52.11 u94371385 [10.71.52.11|put|0|1613|0|0|0|2f7068706d61696c65722f6c616e67756167652f7068706d61696c65722e6c616e672d63682e706870|]
+Dec 17 14:53:17 10.71.52.11 u94371385 open "/phpmailer/language/phpmailer.lang-cs.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 14:53:17 10.71.52.11 u94371385 open "/phpmailer/language/phpmailer.lang-da.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 14:53:17 10.71.52.11 u94371385 close "/phpmailer/language/phpmailer.lang-cs.php" bytes read 0 written 1646
+Dec 17 14:53:17 10.71.52.11 u94371385 [10.71.52.11|put|0|1646|0|0|0|2f7068706d61696c65722f6c616e67756167652f7068706d61696c65722e6c616e672d63732e706870|]
+Dec 17 14:53:17 10.71.52.11 u94371385 close "/phpmailer/language/phpmailer.lang-da.php" bytes read 0 written 1611
+Dec 17 14:53:17 10.71.52.11 u94371385 [10.71.52.11|put|0|1611|0|0|0|2f7068706d61696c65722f6c616e67756167652f7068706d61696c65722e6c616e672d64612e706870|]
+Dec 17 14:53:18 10.71.52.11 u94371385 open "/phpmailer/language/phpmailer.lang-de.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 14:53:18 10.71.52.11 u94371385 open "/phpmailer/language/phpmailer.lang-el.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 14:53:18 10.71.52.11 u94371385 close "/phpmailer/language/phpmailer.lang-de.php" bytes read 0 written 1750
+Dec 17 14:53:18 10.71.52.11 u94371385 [10.71.52.11|put|0|1750|0|0|0|2f7068706d61696c65722f6c616e67756167652f7068706d61696c65722e6c616e672d64652e706870|]
+Dec 17 14:53:18 10.71.52.11 u94371385 close "/phpmailer/language/phpmailer.lang-el.php" bytes read 0 written 2294
+Dec 17 14:53:18 10.71.52.11 u94371385 [10.71.52.11|put|0|2294|0|0|0|2f7068706d61696c65722f6c616e67756167652f7068706d61696c65722e6c616e672d656c2e706870|]
+Dec 17 14:53:19 10.71.52.11 u94371385 open "/phpmailer/language/phpmailer.lang-eo.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 14:53:19 10.71.52.11 u94371385 open "/phpmailer/language/phpmailer.lang-es.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 14:53:19 10.71.52.11 u94371385 close "/phpmailer/language/phpmailer.lang-eo.php" bytes read 0 written 1670
+Dec 17 14:53:19 10.71.52.11 u94371385 [10.71.52.11|put|0|1670|0|0|0|2f7068706d61696c65722f6c616e67756167652f7068706d61696c65722e6c616e672d656f2e706870|]
+Dec 17 14:53:19 10.71.52.11 u94371385 close "/phpmailer/language/phpmailer.lang-es.php" bytes read 0 written 1722
+Dec 17 14:53:19 10.71.52.11 u94371385 [10.71.52.11|put|0|1722|0|0|0|2f7068706d61696c65722f6c616e67756167652f7068706d61696c65722e6c616e672d65732e706870|]
+Dec 17 14:53:20 10.71.52.11 u94371385 open "/phpmailer/language/phpmailer.lang-et.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 14:53:20 10.71.52.11 u94371385 open "/phpmailer/language/phpmailer.lang-fa.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 14:53:20 10.71.52.11 u94371385 close "/phpmailer/language/phpmailer.lang-et.php" bytes read 0 written 1743
+Dec 17 14:53:20 10.71.52.11 u94371385 [10.71.52.11|put|0|1743|0|0|0|2f7068706d61696c65722f6c616e67756167652f7068706d61696c65722e6c616e672d65742e706870|]
+Dec 17 14:53:20 10.71.52.11 u94371385 close "/phpmailer/language/phpmailer.lang-fa.php" bytes read 0 written 2065
+Dec 17 14:53:20 10.71.52.11 u94371385 [10.71.52.11|put|0|2065|0|0|0|2f7068706d61696c65722f6c616e67756167652f7068706d61696c65722e6c616e672d66612e706870|]
+Dec 17 14:53:21 10.71.52.11 u94371385 open "/phpmailer/language/phpmailer.lang-fi.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 14:53:21 10.71.52.11 u94371385 open "/phpmailer/language/phpmailer.lang-fo.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 14:53:22 10.71.52.11 u94371385 close "/phpmailer/language/phpmailer.lang-fi.php" bytes read 0 written 1730
+Dec 17 14:53:22 10.71.52.11 u94371385 [10.71.52.11|put|1|1730|0|0|0|2f7068706d61696c65722f6c616e67756167652f7068706d61696c65722e6c616e672d66692e706870|]
+Dec 17 14:53:22 10.71.52.11 u94371385 close "/phpmailer/language/phpmailer.lang-fo.php" bytes read 0 written 1636
+Dec 17 14:53:22 10.71.52.11 u94371385 [10.71.52.11|put|1|1636|0|0|0|2f7068706d61696c65722f6c616e67756167652f7068706d61696c65722e6c616e672d666f2e706870|]
+Dec 17 14:53:22 10.71.52.11 u94371385 open "/phpmailer/language/phpmailer.lang-fr.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 14:53:22 10.71.52.11 u94371385 open "/phpmailer/language/phpmailer.lang-gl.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 14:53:23 10.71.52.11 u94371385 close "/phpmailer/language/phpmailer.lang-fr.php" bytes read 0 written 2005
+Dec 17 14:53:23 10.71.52.11 u94371385 [10.71.52.11|put|1|2005|0|0|0|2f7068706d61696c65722f6c616e67756167652f7068706d61696c65722e6c616e672d66722e706870|]
+Dec 17 14:53:23 10.71.52.11 u94371385 close "/phpmailer/language/phpmailer.lang-gl.php" bytes read 0 written 1741
+Dec 17 14:53:23 10.71.52.11 u94371385 [10.71.52.11|put|1|1741|0|0|0|2f7068706d61696c65722f6c616e67756167652f7068706d61696c65722e6c616e672d676c2e706870|]
+Dec 17 14:53:23 10.71.52.11 u94371385 open "/phpmailer/language/phpmailer.lang-he.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 14:53:23 10.71.52.11 u94371385 open "/phpmailer/language/phpmailer.lang-hr.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 14:53:24 10.71.52.11 u94371385 close "/phpmailer/language/phpmailer.lang-he.php" bytes read 0 written 1811
+Dec 17 14:53:24 10.71.52.11 u94371385 [10.71.52.11|put|1|1811|0|0|0|2f7068706d61696c65722f6c616e67756167652f7068706d61696c65722e6c616e672d68652e706870|]
+Dec 17 14:53:24 10.71.52.11 u94371385 close "/phpmailer/language/phpmailer.lang-hr.php" bytes read 0 written 1753
+Dec 17 14:53:24 10.71.52.11 u94371385 [10.71.52.11|put|1|1753|0|0|0|2f7068706d61696c65722f6c616e67756167652f7068706d61696c65722e6c616e672d68722e706870|]
+Dec 17 14:53:24 10.71.52.11 u94371385 open "/phpmailer/language/phpmailer.lang-hu.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 14:53:24 10.71.52.11 u94371385 open "/phpmailer/language/phpmailer.lang-id.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 14:53:25 10.71.52.11 u94371385 close "/phpmailer/language/phpmailer.lang-hu.php" bytes read 0 written 1713
+Dec 17 14:53:25 10.71.52.11 u94371385 [10.71.52.11|put|1|1713|0|0|0|2f7068706d61696c65722f6c616e67756167652f7068706d61696c65722e6c616e672d68752e706870|]
+Dec 17 14:53:25 10.71.52.11 u94371385 close "/phpmailer/language/phpmailer.lang-id.php" bytes read 0 written 1754
+Dec 17 14:53:25 10.71.52.11 u94371385 [10.71.52.11|put|1|1754|0|0|0|2f7068706d61696c65722f6c616e67756167652f7068706d61696c65722e6c616e672d69642e706870|]
+Dec 17 14:53:25 10.71.52.11 u94371385 open "/phpmailer/language/phpmailer.lang-it.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 14:53:25 10.71.52.11 u94371385 open "/phpmailer/language/phpmailer.lang-ja.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 14:53:26 10.71.52.11 u94371385 close "/phpmailer/language/phpmailer.lang-it.php" bytes read 0 written 1818
+Dec 17 14:53:26 10.71.52.11 u94371385 [10.71.52.11|put|1|1818|0|0|0|2f7068706d61696c65722f6c616e67756167652f7068706d61696c65722e6c616e672d69742e706870|]
+Dec 17 14:53:26 10.71.52.11 u94371385 close "/phpmailer/language/phpmailer.lang-ja.php" bytes read 0 written 1924
+Dec 17 14:53:26 10.71.52.11 u94371385 [10.71.52.11|put|1|1924|0|0|0|2f7068706d61696c65722f6c616e67756167652f7068706d61696c65722e6c616e672d6a612e706870|]
+Dec 17 14:53:26 10.71.52.11 u94371385 open "/phpmailer/language/phpmailer.lang-ka.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 14:53:26 10.71.52.11 u94371385 open "/phpmailer/language/phpmailer.lang-ko.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 14:53:27 10.71.52.11 u94371385 close "/phpmailer/language/phpmailer.lang-ka.php" bytes read 0 written 2883
+Dec 17 14:53:27 10.71.52.11 u94371385 [10.71.52.11|put|1|2883|0|0|0|2f7068706d61696c65722f6c616e67756167652f7068706d61696c65722e6c616e672d6b612e706870|]
+Dec 17 14:53:27 10.71.52.11 u94371385 close "/phpmailer/language/phpmailer.lang-ko.php" bytes read 0 written 1770
+Dec 17 14:53:27 10.71.52.11 u94371385 [10.71.52.11|put|1|1770|0|0|0|2f7068706d61696c65722f6c616e67756167652f7068706d61696c65722e6c616e672d6b6f2e706870|]
+Dec 17 14:53:27 10.71.52.11 u94371385 open "/phpmailer/language/phpmailer.lang-lt.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 14:53:27 10.71.52.11 u94371385 open "/phpmailer/language/phpmailer.lang-lv.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 14:53:28 10.71.52.11 u94371385 close "/phpmailer/language/phpmailer.lang-lt.php" bytes read 0 written 1626
+Dec 17 14:53:28 10.71.52.11 u94371385 [10.71.52.11|put|1|1626|0|0|0|2f7068706d61696c65722f6c616e67756167652f7068706d61696c65722e6c616e672d6c742e706870|]
+Dec 17 14:53:28 10.71.52.11 u94371385 close "/phpmailer/language/phpmailer.lang-lv.php" bytes read 0 written 1642
+Dec 17 14:53:28 10.71.52.11 u94371385 [10.71.52.11|put|1|1642|0|0|0|2f7068706d61696c65722f6c616e67756167652f7068706d61696c65722e6c616e672d6c762e706870|]
+Dec 17 14:53:28 10.71.52.11 u94371385 open "/phpmailer/language/phpmailer.lang-ms.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 14:53:28 10.71.52.11 u94371385 open "/phpmailer/language/phpmailer.lang-nb.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 14:53:29 10.71.52.11 u94371385 close "/phpmailer/language/phpmailer.lang-ms.php" bytes read 0 written 1736
+Dec 17 14:53:29 10.71.52.11 u94371385 [10.71.52.11|put|1|1736|0|0|0|2f7068706d61696c65722f6c616e67756167652f7068706d61696c65722e6c616e672d6d732e706870|]
+Dec 17 14:53:29 10.71.52.11 u94371385 close "/phpmailer/language/phpmailer.lang-nb.php" bytes read 0 written 1549
+Dec 17 14:53:29 10.71.52.11 u94371385 [10.71.52.11|put|1|1549|0|0|0|2f7068706d61696c65722f6c616e67756167652f7068706d61696c65722e6c616e672d6e622e706870|]
+Dec 17 14:53:29 10.71.52.11 u94371385 open "/phpmailer/language/phpmailer.lang-nl.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 14:53:29 10.71.52.11 u94371385 open "/phpmailer/language/phpmailer.lang-pl.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 14:53:30 10.71.52.11 u94371385 close "/phpmailer/language/phpmailer.lang-nl.php" bytes read 0 written 1621
+Dec 17 14:53:30 10.71.52.11 u94371385 [10.71.52.11|put|1|1621|0|0|0|2f7068706d61696c65722f6c616e67756167652f7068706d61696c65722e6c616e672d6e6c2e706870|]
+Dec 17 14:53:30 10.71.52.11 u94371385 close "/phpmailer/language/phpmailer.lang-pl.php" bytes read 0 written 1816
+Dec 17 14:53:30 10.71.52.11 u94371385 [10.71.52.11|put|1|1816|0|0|0|2f7068706d61696c65722f6c616e67756167652f7068706d61696c65722e6c616e672d706c2e706870|]
+Dec 17 14:53:30 10.71.52.11 u94371385 open "/phpmailer/language/phpmailer.lang-pt.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 14:53:30 10.71.52.11 u94371385 open "/phpmailer/language/phpmailer.lang-pt_br.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 14:53:31 10.71.52.11 u94371385 close "/phpmailer/language/phpmailer.lang-pt.php" bytes read 0 written 1888
+Dec 17 14:53:31 10.71.52.11 u94371385 [10.71.52.11|put|1|1888|0|0|0|2f7068706d61696c65722f6c616e67756167652f7068706d61696c65722e6c616e672d70742e706870|]
+Dec 17 14:53:31 10.71.52.11 u94371385 close "/phpmailer/language/phpmailer.lang-pt_br.php" bytes read 0 written 1907
+Dec 17 14:53:31 10.71.52.11 u94371385 [10.71.52.11|put|1|1907|0|0|0|2f7068706d61696c65722f6c616e67756167652f7068706d61696c65722e6c616e672d70745f62722e706870|]
+Dec 17 14:53:31 10.71.52.11 u94371385 open "/phpmailer/language/phpmailer.lang-ro.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 14:53:31 10.71.52.11 u94371385 open "/phpmailer/language/phpmailer.lang-rs.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 14:53:32 10.71.52.11 u94371385 close "/phpmailer/language/phpmailer.lang-ro.php" bytes read 0 written 1752
+Dec 17 14:53:32 10.71.52.11 u94371385 [10.71.52.11|put|1|1752|0|0|0|2f7068706d61696c65722f6c616e67756167652f7068706d61696c65722e6c616e672d726f2e706870|]
+Dec 17 14:53:32 10.71.52.11 u94371385 close "/phpmailer/language/phpmailer.lang-rs.php" bytes read 0 written 2281
+Dec 17 14:53:32 10.71.52.11 u94371385 [10.71.52.11|put|1|2281|0|0|0|2f7068706d61696c65722f6c616e67756167652f7068706d61696c65722e6c616e672d72732e706870|]
+Dec 17 14:53:32 10.71.52.11 u94371385 open "/phpmailer/language/phpmailer.lang-ru.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 14:53:32 10.71.52.11 u94371385 open "/phpmailer/language/phpmailer.lang-sk.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 14:53:33 10.71.52.11 u94371385 close "/phpmailer/language/phpmailer.lang-ru.php" bytes read 0 written 2279
+Dec 17 14:53:33 10.71.52.11 u94371385 [10.71.52.11|put|1|2279|0|0|0|2f7068706d61696c65722f6c616e67756167652f7068706d61696c65722e6c616e672d72752e706870|]
+Dec 17 14:53:33 10.71.52.11 u94371385 close "/phpmailer/language/phpmailer.lang-sk.php" bytes read 0 written 1709
+Dec 17 14:53:33 10.71.52.11 u94371385 [10.71.52.11|put|1|1709|0|0|0|2f7068706d61696c65722f6c616e67756167652f7068706d61696c65722e6c616e672d736b2e706870|]
+Dec 17 14:53:34 10.71.52.11 u94371385 open "/phpmailer/language/phpmailer.lang-sl.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 14:53:34 10.71.52.11 u94371385 open "/phpmailer/language/phpmailer.lang-sv.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 14:53:34 10.71.52.11 u94371385 close "/phpmailer/language/phpmailer.lang-sl.php" bytes read 0 written 1721
+Dec 17 14:53:34 10.71.52.11 u94371385 [10.71.52.11|put|0|1721|0|0|0|2f7068706d61696c65722f6c616e67756167652f7068706d61696c65722e6c616e672d736c2e706870|]
+Dec 17 14:53:34 10.71.52.11 u94371385 close "/phpmailer/language/phpmailer.lang-sv.php" bytes read 0 written 1611
+Dec 17 14:53:34 10.71.52.11 u94371385 [10.71.52.11|put|0|1611|0|0|0|2f7068706d61696c65722f6c616e67756167652f7068706d61696c65722e6c616e672d73762e706870|]
+Dec 17 14:53:35 10.71.52.11 u94371385 open "/phpmailer/language/phpmailer.lang-tr.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 14:53:35 10.71.52.11 u94371385 open "/phpmailer/language/phpmailer.lang-uk.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 14:53:35 10.71.52.11 u94371385 close "/phpmailer/language/phpmailer.lang-tr.php" bytes read 0 written 1771
+Dec 17 14:53:35 10.71.52.11 u94371385 [10.71.52.11|put|0|1771|0|0|0|2f7068706d61696c65722f6c616e67756167652f7068706d61696c65722e6c616e672d74722e706870|]
+Dec 17 14:53:35 10.71.52.11 u94371385 close "/phpmailer/language/phpmailer.lang-uk.php" bytes read 0 written 2280
+Dec 17 14:53:35 10.71.52.11 u94371385 [10.71.52.11|put|0|2280|0|0|0|2f7068706d61696c65722f6c616e67756167652f7068706d61696c65722e6c616e672d756b2e706870|]
+Dec 17 14:53:36 10.71.52.11 u94371385 open "/phpmailer/language/phpmailer.lang-vi.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 14:53:36 10.71.52.11 u94371385 open "/phpmailer/language/phpmailer.lang-zh.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 14:53:36 10.71.52.11 u94371385 close "/phpmailer/language/phpmailer.lang-vi.php" bytes read 0 written 1792
+Dec 17 14:53:36 10.71.52.11 u94371385 [10.71.52.11|put|0|1792|0|0|0|2f7068706d61696c65722f6c616e67756167652f7068706d61696c65722e6c616e672d76692e706870|]
+Dec 17 14:53:36 10.71.52.11 u94371385 close "/phpmailer/language/phpmailer.lang-zh.php" bytes read 0 written 1668
+Dec 17 14:53:36 10.71.52.11 u94371385 [10.71.52.11|put|0|1668|0|0|0|2f7068706d61696c65722f6c616e67756167652f7068706d61696c65722e6c616e672d7a682e706870|]
+Dec 17 14:53:37 10.71.52.11 u94371385 open "/phpmailer/language/phpmailer.lang-zh_cn.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 14:53:37 10.71.52.11 u94371385 close "/phpmailer/language/phpmailer.lang-zh_cn.php" bytes read 0 written 1655
+Dec 17 14:53:37 10.71.52.11 u94371385 [10.71.52.11|put|0|1655|0|0|0|2f7068706d61696c65722f6c616e67756167652f7068706d61696c65722e6c616e672d7a685f636e2e706870|]
+Dec 17 14:53:37 10.71.52.11 u94371385 open "/contact.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Dec 17 14:53:38 10.71.52.11 u94371385 close "/contact.php" bytes read 0 written 2216
+Dec 17 14:53:38 10.71.52.11 u94371385 [10.71.52.11|put|1|2216|0|0|0|2f636f6e746163742e706870|]
+Dec 17 14:54:37 10.71.52.11 u94371385 session closed for local user u94371385 from [10.71.52.11]
+Dec 17 14:54:38 10.71.52.11 u94371385 Connection closed by 10.71.52.11
+Dec 17 14:54:38 10.71.52.11 u94371385 session closed for local user u94371385 from [10.71.52.11]
+Dec 17 14:54:38 10.71.52.11 u94371385 Connection closed by 10.71.52.11
+Dec 17 14:56:11 10.71.52.11 u94371385 sent status No such file
+Dec 17 14:56:10 10.71.52.11 u94371385 Connection from 10.71.52.11 port 37182 on 74.208.59.26 port 22
+Dec 17 14:56:12 10.71.52.11 u94371385 Accepted password for u94371385 from 10.71.52.11 port 37182 ssh2
+Dec 17 14:56:10 10.71.52.11 u94371385 Connection from 10.71.52.11 port 37184 on 74.208.59.26 port 22
+Dec 17 14:56:12 10.71.52.11 u94371385 Accepted password for u94371385 from 10.71.52.11 port 37184 ssh2
+Dec 17 14:56:12 10.71.52.11 u94371385 Starting session: subsystem 'sftp' for u94371385 from 10.71.52.11 port 37182
+Dec 17 14:56:12 10.71.52.11 u94371385 Starting session: subsystem 'sftp' for u94371385 from 10.71.52.11 port 37184
+Dec 17 14:56:12 10.71.52.11 u94371385 session opened for local user u94371385 from [10.71.52.11]
+Dec 17 14:56:12 10.71.52.11 u94371385 session opened for local user u94371385 from [10.71.52.11]
+Dec 17 14:56:14 10.71.52.11 u94371385 open "/logs/mail.log" flags READ mode 0666
+Dec 17 14:56:14 10.71.52.11 u94371385 open "/logs/sftp.log" flags READ mode 0666

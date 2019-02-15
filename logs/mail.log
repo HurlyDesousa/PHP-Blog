@@ -1,0 +1,3 @@
+2018-12-17 02:21:28 u94371385 0DmWnz-1glwLY1lAm-00MGqw |< REMOTE=105.233.63.128 SCRIPT=/includes/contact.inc.php -- /usr/sbin/sendmail -t -i
+2018-12-17 02:21:28 u94371385 0DmWnz-1glwLY1lAm-00MGqw <= S=hurlyis@outlook.com SZ=672 D=0 SID=747655258
+2018-12-17 02:21:28 u94371385 0DmWnz-1glwLY1lAm-00MGqw => support@shutterbrave.com msmtp.perfora.net[172.19.143.3] 250 Requested mail action okay, completed: id=0MV4A7-1gvaRp1rVl-00YPjF
