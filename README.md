@@ -6,7 +6,7 @@ CTI PHP UNIT 3 PROJECT
 Online trading blog.
 
 *************************************************************
-* Author:				Toby Swart
+* Author:				HurlyDesousa
 * Date: 					2018-11-27
 * Description:				Create trading blog database	
 * Project Number			Project 1A		
